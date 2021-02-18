@@ -1,0 +1,189 @@
+main {
+	padding: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    min-width: 600px;
+    width: 40%;
+}
+.sign-illustration{
+    text-align: center;
+    max-width: 50%;
+}
+
+.sign-form header{
+    text-align: center;
+}
+
+.sign-form p.raleway {
+	font-size: 20px;
+}
+
+main form{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+}
+
+form>div{
+    position: relative;
+    margin: 10px 0;
+    width: 70%;
+}
+
+.sign-input{
+    border-radius: 50px;
+    background-color: #EAEAEA;
+    outline: none;
+    border:none;
+    font-size: 20px;
+    padding: 15px 10px 15px 60px;
+    box-sizing: border-box;
+    width: 100%;
+    transition-duration: 0.3s;
+    border : 2px solid #EAEAEA;
+
+}
+
+.sign-input:focus{
+    border : 2px solid #f29559;
+}
+
+.sign-input:focus+svg path{
+    fill : #f29559;
+}
+
+.sign-input:valid{
+    border : 2px solid #f29559;
+}
+
+.sign-input:valid+svg path{
+    fill : #f29559;
+}
+
+.sign-input.invalid{
+    border : 2px solid #FF6060;
+}
+
+.sign-input.invalid+svg path{
+    fill : #FF6060;
+}
+
+
+span.error{
+    color : #FF6060;
+    transition: all ease-in-out 0.3s;
+}
+
+.sign-form form svg{
+    height: 45%;
+    position: absolute;
+    top:15px;
+    left: 20px;
+}
+
+form path{
+    transition-duration: 0.3s;
+}
+
+.switch {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin-bottom: 15px;
+    padding-right: 15px;
+}
+
+.switch input {
+	opacity: 0;
+	width: 0;
+    height: 0;
+    display: none;
+}
+
+.slider {
+	position: absolute;
+    cursor: pointer;
+    width: 50px;
+	height: 28px;
+	right: 0;
+	background-color: #ccc;
+	-webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+	position: absolute;
+	content: "";
+	height: 20px;
+	width: 20px;
+	left: 4px;
+	bottom: 4px;
+	background-color: white;
+	-webkit-transition: .4s;
+	transition: .4s;
+}
+
+input:checked + .slider {
+	background-color: #f29559;
+}
+
+input:focus + .slider {
+	box-shadow: 0 0 1px #f29559;
+}
+
+input:checked + .slider:before {
+	-webkit-transform: translateX(20px);
+	-ms-transform: translateX(20px);
+	transform: translateX(20px);
+}
+
+/* Rounded sliders */
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+	border-radius: 50%;
+}
+
+.confirm-signin{
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 850px) {
+
+    main{
+        flex-direction: column;
+        padding : 10vh 0 0 0;
+    }
+
+    .sign-form{
+        width: 100%;
+    }
+
+    form{
+        width : 100%;
+    }
+
+    .switch{
+        width : 80%;
+    }
+
+    .sign-illustration{
+        display: none;
+    }
+
+}

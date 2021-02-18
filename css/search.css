@@ -1,0 +1,90 @@
+body>main {
+	padding: 5vh 10vh 0 10vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    
+}
+.top-bar{
+	position: absolute;
+}
+header.titre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.results{
+	display: none;
+	justify-content: center;
+	width: 100%;
+	flex-wrap: wrap;
+	margin-top: 30px;
+}
+
+.offers-list, .articles-list{
+	display: flex;
+	width: 33%;
+}
+
+.profiles-list{
+	display: flex;
+	width: 33%;
+
+}
+
+.posts-list{
+	flex-direction: column;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+
+.profiles-list .profile{
+	border-radius: 30px;
+    background-color: #eaeaea;
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.15);
+    padding: 15px;
+    margin: 20px;
+    width: 250px;
+    position: relative;
+}
+
+.profiles-list .user-name{
+	font-size: 23px;
+    color: #f29559;
+    margin-bottom: 5px;
+}
+
+.profiles-list .user-pseudo{
+	color: #a2a2a2;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.search-img{
+	opacity: 0.5;
+	width: 30%;
+	visibility: visible;
+	transition: all ease-in-out 0.3s;
+}
+
+@media only screen and (max-width: 850px) {
+    body>main{
+	padding:90px 10px 0 10px ;
+
+	}
+	.results{
+		display:flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	.posts-list{
+		width:100%;
+		padding-bottom: 50px;
+	}
+
+}

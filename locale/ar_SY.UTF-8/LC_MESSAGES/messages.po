@@ -1,0 +1,1125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-25 18:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar_SY.iso88596\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: c:\xampp\htdocs\annonce.php:130 c:\xampp\htdocs\annonces.php:105
+#: c:\xampp\htdocs\article.php:97 c:\xampp\htdocs\articles.php:120
+#: c:\xampp\htdocs\index.php:106 c:\xampp\htdocs\mentions-legales.php:77
+#: c:\xampp\htdocs\politique-de-confidentialite.php:69
+#: c:\xampp\htdocs\poster-annonce.php:225
+#: c:\xampp\htdocs\poster-article.php:261 c:\xampp\htdocs\profil.php:300
+#: c:\xampp\htdocs\annonce.php:236 c:\xampp\htdocs\annonces.php:210
+#: c:\xampp\htdocs\article.php:283 c:\xampp\htdocs\articles.php:234
+#: c:\xampp\htdocs\index.php:148 c:\xampp\htdocs\mentions-legales.php:96
+#: c:\xampp\htdocs\messagerie.php:190
+#: c:\xampp\htdocs\politique-de-confidentialite.php:94
+#: c:\xampp\htdocs\poster-annonce.php:257
+#: c:\xampp\htdocs\poster-article.php:278 c:\xampp\htdocs\profil.php:335
+#: c:\xampp\htdocs\qui-sommes-nous.php:110 c:\xampp\htdocs\recherche.php:283
+#: c:\xampp\htdocs\index.php:138
+msgid "Accueil"
+msgstr "ترحيب"
+
+#: c:\xampp\htdocs\annonce.php:141 c:\xampp\htdocs\annonces.php:115
+#: c:\xampp\htdocs\article.php:108 c:\xampp\htdocs\articles.php:130
+#: c:\xampp\htdocs\index.php:116 c:\xampp\htdocs\mentions-legales.php:87
+#: c:\xampp\htdocs\politique-de-confidentialite.php:79
+#: c:\xampp\htdocs\poster-annonce.php:235
+#: c:\xampp\htdocs\poster-article.php:271 c:\xampp\htdocs\profil.php:310
+#: c:\xampp\htdocs\annonce.php:247 c:\xampp\htdocs\annonces.php:220
+#: c:\xampp\htdocs\article.php:294 c:\xampp\htdocs\articles.php:244
+#: c:\xampp\htdocs\index.php:158 c:\xampp\htdocs\mentions-legales.php:106
+#: c:\xampp\htdocs\messagerie.php:200
+#: c:\xampp\htdocs\politique-de-confidentialite.php:104
+#: c:\xampp\htdocs\poster-annonce.php:267
+#: c:\xampp\htdocs\poster-article.php:288 c:\xampp\htdocs\profil.php:345
+#: c:\xampp\htdocs\qui-sommes-nous.php:120 c:\xampp\htdocs\recherche.php:90
+#: c:\xampp\htdocs\recherche.php:294 c:\xampp\htdocs\index.php:149
+msgid "Articles"
+msgstr "مقالات"
+
+#: c:\xampp\htdocs\annonce.php:151 c:\xampp\htdocs\annonces.php:125
+#: c:\xampp\htdocs\article.php:118 c:\xampp\htdocs\articles.php:140
+#: c:\xampp\htdocs\index.php:126 c:\xampp\htdocs\mentions-legales.php:97
+#: c:\xampp\htdocs\politique-de-confidentialite.php:89
+#: c:\xampp\htdocs\poster-annonce.php:245
+#: c:\xampp\htdocs\poster-article.php:281 c:\xampp\htdocs\profil.php:320
+#: c:\xampp\htdocs\annonce.php:257 c:\xampp\htdocs\annonces.php:230
+#: c:\xampp\htdocs\article.php:304 c:\xampp\htdocs\articles.php:254
+#: c:\xampp\htdocs\index.php:168 c:\xampp\htdocs\mentions-legales.php:116
+#: c:\xampp\htdocs\messagerie.php:210
+#: c:\xampp\htdocs\politique-de-confidentialite.php:114
+#: c:\xampp\htdocs\poster-annonce.php:277
+#: c:\xampp\htdocs\poster-article.php:298 c:\xampp\htdocs\profil.php:355
+#: c:\xampp\htdocs\qui-sommes-nous.php:130 c:\xampp\htdocs\recherche.php:137
+#: c:\xampp\htdocs\recherche.php:304 c:\xampp\htdocs\index.php:159
+msgid "Annonces"
+msgstr "الإعلانات"
+
+#: c:\xampp\htdocs\annonce.php:161 c:\xampp\htdocs\annonces.php:135
+#: c:\xampp\htdocs\article.php:128 c:\xampp\htdocs\articles.php:150
+#: c:\xampp\htdocs\index.php:136 c:\xampp\htdocs\mentions-legales.php:107
+#: c:\xampp\htdocs\politique-de-confidentialite.php:99
+#: c:\xampp\htdocs\poster-annonce.php:255
+#: c:\xampp\htdocs\poster-article.php:291 c:\xampp\htdocs\profil.php:330
+#: c:\xampp\htdocs\annonce.php:267 c:\xampp\htdocs\annonces.php:240
+#: c:\xampp\htdocs\article.php:314 c:\xampp\htdocs\articles.php:264
+#: c:\xampp\htdocs\index.php:178 c:\xampp\htdocs\mentions-legales.php:126
+#: c:\xampp\htdocs\messagerie.php:220
+#: c:\xampp\htdocs\politique-de-confidentialite.php:124
+#: c:\xampp\htdocs\poster-annonce.php:287
+#: c:\xampp\htdocs\poster-article.php:308 c:\xampp\htdocs\profil.php:365
+#: c:\xampp\htdocs\qui-sommes-nous.php:140 c:\xampp\htdocs\recherche.php:314
+#: c:\xampp\htdocs\index.php:169
+msgid "Messages"
+msgstr "المشاركات"
+
+#: c:\xampp\htdocs\annonce.php:168 c:\xampp\htdocs\annonces.php:143
+#: c:\xampp\htdocs\article.php:135 c:\xampp\htdocs\articles.php:158
+#: c:\xampp\htdocs\connexion.php:92 c:\xampp\htdocs\index.php:179
+#: c:\xampp\htdocs\inscription.php:133 c:\xampp\htdocs\mentions-legales.php:115
+#: c:\xampp\htdocs\politique-de-confidentialite.php:107
+#: c:\xampp\htdocs\poster-annonce.php:262
+#: c:\xampp\htdocs\poster-article.php:298 c:\xampp\htdocs\profil.php:337
+#: c:\xampp\htdocs\annonce.php:274 c:\xampp\htdocs\annonces.php:248
+#: c:\xampp\htdocs\article.php:321 c:\xampp\htdocs\articles.php:272
+#: c:\xampp\htdocs\connexion.php:121 c:\xampp\htdocs\index.php:221
+#: c:\xampp\htdocs\inscription.php:161 c:\xampp\htdocs\mentions-legales.php:134
+#: c:\xampp\htdocs\messagerie.php:228
+#: c:\xampp\htdocs\politique-de-confidentialite.php:132
+#: c:\xampp\htdocs\poster-annonce.php:294
+#: c:\xampp\htdocs\poster-article.php:315 c:\xampp\htdocs\profil.php:372
+#: c:\xampp\htdocs\qui-sommes-nous.php:148 c:\xampp\htdocs\recherche.php:365
+#: c:\xampp\htdocs\index.php:212
+msgid "Rechercher"
+msgstr "بحث"
+
+#: c:\xampp\htdocs\annonce.php:175 c:\xampp\htdocs\annonces.php:158
+#: c:\xampp\htdocs\article.php:146 c:\xampp\htdocs\articles.php:169
+#: c:\xampp\htdocs\index.php:97 c:\xampp\htdocs\mentions-legales.php:126
+#: c:\xampp\htdocs\politique-de-confidentialite.php:118
+#: c:\xampp\htdocs\poster-article.php:305 c:\xampp\htdocs\profil.php:351
+#: c:\xampp\htdocs\annonce.php:288 c:\xampp\htdocs\annonces.php:266
+#: c:\xampp\htdocs\article.php:335 c:\xampp\htdocs\articles.php:286
+#: c:\xampp\htdocs\index.php:139 c:\xampp\htdocs\mentions-legales.php:148
+#: c:\xampp\htdocs\messagerie.php:242
+#: c:\xampp\htdocs\politique-de-confidentialite.php:146
+#: c:\xampp\htdocs\poster-article.php:325 c:\xampp\htdocs\profil.php:390
+#: c:\xampp\htdocs\qui-sommes-nous.php:162 c:\xampp\htdocs\recherche.php:325
+#: c:\xampp\htdocs\index.php:129
+msgid "Poster une annonce"
+msgstr "انشر إعلانا"
+
+#: c:\xampp\htdocs\annonce.php:187 c:\xampp\htdocs\annonces.php:170
+#: c:\xampp\htdocs\article.php:158 c:\xampp\htdocs\articles.php:179
+#: c:\xampp\htdocs\connexion.php:154 c:\xampp\htdocs\index.php:143
+#: c:\xampp\htdocs\mentions-legales.php:136
+#: c:\xampp\htdocs\politique-de-confidentialite.php:128
+#: c:\xampp\htdocs\annonce.php:306 c:\xampp\htdocs\annonces.php:283
+#: c:\xampp\htdocs\article.php:352 c:\xampp\htdocs\articles.php:301
+#: c:\xampp\htdocs\connexion.php:186 c:\xampp\htdocs\index.php:185
+#: c:\xampp\htdocs\mentions-legales.php:163 c:\xampp\htdocs\messagerie.php:257
+#: c:\xampp\htdocs\politique-de-confidentialite.php:161
+#: c:\xampp\htdocs\profil.php:405 c:\xampp\htdocs\qui-sommes-nous.php:177
+#: c:\xampp\htdocs\recherche.php:340 c:\xampp\htdocs\index.php:176
+msgid "Connexion"
+msgstr "تسجيل الدخول"
+
+#: c:\xampp\htdocs\annonce.php:219 c:\xampp\htdocs\profil.php:419
+#: c:\xampp\htdocs\annonce.php:334 c:\xampp\htdocs\profil.php:473
+msgid "Nombre de signalements"
+msgstr "عدد التقارير"
+
+#: c:\xampp\htdocs\annonce.php:271 c:\xampp\htdocs\annonce.php:413
+#: c:\xampp\htdocs\annonce.php:408 c:\xampp\htdocs\annonce.php:664
+msgid "Supprimer l'annonce"
+msgstr "حذف الإعلان"
+
+#: c:\xampp\htdocs\annonce.php:272 c:\xampp\htdocs\annonce.php:428
+#: c:\xampp\htdocs\annonce.php:410 c:\xampp\htdocs\annonce.php:678
+msgid "Signaler l'annonce"
+msgstr "تقرير إعلان"
+
+#: c:\xampp\htdocs\annonce.php:292 c:\xampp\htdocs\article.php:256
+#: c:\xampp\htdocs\poster-annonce.php:343
+#: c:\xampp\htdocs\poster-article.php:417 c:\xampp\htdocs\annonce.php:498
+#: c:\xampp\htdocs\article.php:700 c:\xampp\htdocs\poster-annonce.php:387
+#: c:\xampp\htdocs\poster-article.php:449
+msgid "Liens ou fichiers externes"
+msgstr "الروابط أو الملفات الخارجية"
+
+#: c:\xampp\htdocs\annonce.php:349 c:\xampp\htdocs\profil.php:576
+#: c:\xampp\htdocs\annonce.php:599 c:\xampp\htdocs\profil.php:626
+msgid "Contacter"
+msgstr "اتصل"
+
+#: c:\xampp\htdocs\annonce.php:351 c:\xampp\htdocs\index.php:319
+#: c:\xampp\htdocs\annonce.php:603 c:\xampp\htdocs\index.php:377
+#: c:\xampp\htdocs\index.php:368
+msgid "Les dernières"
+msgstr "آخر"
+
+#: c:\xampp\htdocs\annonce.php:351 c:\xampp\htdocs\index.php:320
+#: c:\xampp\htdocs\annonce.php:603 c:\xampp\htdocs\index.php:378
+#: c:\xampp\htdocs\index.php:369
+msgid "annonces"
+msgstr "الإعلانات"
+
+#: c:\xampp\htdocs\annonce.php:406 c:\xampp\htdocs\annonces.php:195
+#: c:\xampp\htdocs\index.php:322 c:\xampp\htdocs\annonce.php:658
+#: c:\xampp\htdocs\annonces.php:308 c:\xampp\htdocs\index.php:380
+#: c:\xampp\htdocs\index.php:371
+msgid "Toutes les annonces"
+msgstr "جميع الإعلانات"
+
+#: c:\xampp\htdocs\annonce.php:417 c:\xampp\htdocs\annonce.php:432
+#: c:\xampp\htdocs\article.php:360 c:\xampp\htdocs\profil.php:679
+#: c:\xampp\htdocs\profil.php:690 c:\xampp\htdocs\annonce.php:668
+#: c:\xampp\htdocs\annonce.php:682 c:\xampp\htdocs\article.php:827
+#: c:\xampp\htdocs\profil.php:723 c:\xampp\htdocs\profil.php:734
+msgid "Oui"
+msgstr "نعم"
+
+#: c:\xampp\htdocs\annonce.php:421 c:\xampp\htdocs\annonce.php:436
+#: c:\xampp\htdocs\article.php:364 c:\xampp\htdocs\profil.php:680
+#: c:\xampp\htdocs\profil.php:694 c:\xampp\htdocs\annonce.php:672
+#: c:\xampp\htdocs\annonce.php:686 c:\xampp\htdocs\article.php:831
+#: c:\xampp\htdocs\profil.php:724 c:\xampp\htdocs\profil.php:738
+msgid "Non"
+msgstr "لا"
+
+#: c:\xampp\htdocs\annonce.php:444 c:\xampp\htdocs\annonces.php:293
+#: c:\xampp\htdocs\article.php:370 c:\xampp\htdocs\articles.php:304
+#: c:\xampp\htdocs\connexion.php:169 c:\xampp\htdocs\index.php:386
+#: c:\xampp\htdocs\inscription.php:237 c:\xampp\htdocs\mentions-legales.php:167
+#: c:\xampp\htdocs\poster-annonce.php:393
+#: c:\xampp\htdocs\poster-article.php:466 c:\xampp\htdocs\profil.php:665
+#: c:\xampp\htdocs\annonce.php:691 c:\xampp\htdocs\annonces.php:341
+#: c:\xampp\htdocs\article.php:837 c:\xampp\htdocs\articles.php:361
+#: c:\xampp\htdocs\connexion.php:201 c:\xampp\htdocs\index.php:444
+#: c:\xampp\htdocs\inscription.php:268 c:\xampp\htdocs\mentions-legales.php:205
+#: c:\xampp\htdocs\messagerie.php:371
+#: c:\xampp\htdocs\politique-de-confidentialite.php:200
+#: c:\xampp\htdocs\poster-annonce.php:433
+#: c:\xampp\htdocs\poster-article.php:498 c:\xampp\htdocs\profil.php:709
+#: c:\xampp\htdocs\qui-sommes-nous.php:217 c:\xampp\htdocs\recherche.php:379
+#: c:\xampp\htdocs\index.php:435
+msgid "Tous droits réservés."
+msgstr "جميع الحقوق محفوظة."
+
+#: c:\xampp\htdocs\annonce.php:446 c:\xampp\htdocs\annonces.php:295
+#: c:\xampp\htdocs\article.php:372 c:\xampp\htdocs\articles.php:306
+#: c:\xampp\htdocs\connexion.php:171 c:\xampp\htdocs\index.php:388
+#: c:\xampp\htdocs\inscription.php:239 c:\xampp\htdocs\mentions-legales.php:150
+#: c:\xampp\htdocs\mentions-legales.php:169
+#: c:\xampp\htdocs\politique-de-confidentialite.php:143
+#: c:\xampp\htdocs\poster-annonce.php:395
+#: c:\xampp\htdocs\poster-article.php:468 c:\xampp\htdocs\profil.php:667
+#: c:\xampp\htdocs\annonce.php:693 c:\xampp\htdocs\annonces.php:343
+#: c:\xampp\htdocs\article.php:839 c:\xampp\htdocs\articles.php:363
+#: c:\xampp\htdocs\connexion.php:203 c:\xampp\htdocs\index.php:446
+#: c:\xampp\htdocs\inscription.php:270 c:\xampp\htdocs\mentions-legales.php:188
+#: c:\xampp\htdocs\mentions-legales.php:207 c:\xampp\htdocs\messagerie.php:373
+#: c:\xampp\htdocs\politique-de-confidentialite.php:202
+#: c:\xampp\htdocs\poster-annonce.php:435
+#: c:\xampp\htdocs\poster-article.php:500 c:\xampp\htdocs\profil.php:711
+#: c:\xampp\htdocs\qui-sommes-nous.php:219 c:\xampp\htdocs\recherche.php:381
+#: c:\xampp\htdocs\index.php:437
+msgid "Mentions légales"
+msgstr "إشعار قانوني"
+
+#: c:\xampp\htdocs\annonce.php:448 c:\xampp\htdocs\annonces.php:297
+#: c:\xampp\htdocs\article.php:374 c:\xampp\htdocs\articles.php:308
+#: c:\xampp\htdocs\connexion.php:173 c:\xampp\htdocs\index.php:390
+#: c:\xampp\htdocs\inscription.php:241 c:\xampp\htdocs\mentions-legales.php:157
+#: c:\xampp\htdocs\mentions-legales.php:171
+#: c:\xampp\htdocs\politique-de-confidentialite.php:150
+#: c:\xampp\htdocs\poster-annonce.php:397
+#: c:\xampp\htdocs\poster-article.php:470 c:\xampp\htdocs\profil.php:669
+#: c:\xampp\htdocs\annonce.php:695 c:\xampp\htdocs\annonces.php:345
+#: c:\xampp\htdocs\article.php:841 c:\xampp\htdocs\articles.php:365
+#: c:\xampp\htdocs\connexion.php:205 c:\xampp\htdocs\index.php:448
+#: c:\xampp\htdocs\inscription.php:272 c:\xampp\htdocs\mentions-legales.php:195
+#: c:\xampp\htdocs\mentions-legales.php:209 c:\xampp\htdocs\messagerie.php:375
+#: c:\xampp\htdocs\politique-de-confidentialite.php:186
+#: c:\xampp\htdocs\politique-de-confidentialite.php:204
+#: c:\xampp\htdocs\poster-annonce.php:437
+#: c:\xampp\htdocs\poster-article.php:502 c:\xampp\htdocs\profil.php:713
+#: c:\xampp\htdocs\qui-sommes-nous.php:221 c:\xampp\htdocs\recherche.php:383
+#: c:\xampp\htdocs\index.php:439
+msgid "Politique de confidentialité"
+msgstr "سياسة الخصوصية"
+
+#: c:\xampp\htdocs\annonce.php:450 c:\xampp\htdocs\annonces.php:299
+#: c:\xampp\htdocs\article.php:376 c:\xampp\htdocs\articles.php:310
+#: c:\xampp\htdocs\connexion.php:175 c:\xampp\htdocs\index.php:392
+#: c:\xampp\htdocs\inscription.php:243 c:\xampp\htdocs\mentions-legales.php:173
+#: c:\xampp\htdocs\poster-annonce.php:399
+#: c:\xampp\htdocs\poster-article.php:472 c:\xampp\htdocs\profil.php:671
+msgid "Politique d'utilisation des cookies"
+msgstr "اتفاقية ملفات تعريف الارتباط"
+
+#: c:\xampp\htdocs\annonces.php:156 c:\xampp\htdocs\article.php:144
+#: c:\xampp\htdocs\articles.php:167 c:\xampp\htdocs\index.php:95
+#: c:\xampp\htdocs\mentions-legales.php:124
+#: c:\xampp\htdocs\politique-de-confidentialite.php:116
+#: c:\xampp\htdocs\profil.php:349 c:\xampp\htdocs\annonce.php:286
+#: c:\xampp\htdocs\annonces.php:264 c:\xampp\htdocs\article.php:333
+#: c:\xampp\htdocs\articles.php:284 c:\xampp\htdocs\index.php:137
+#: c:\xampp\htdocs\mentions-legales.php:146 c:\xampp\htdocs\messagerie.php:240
+#: c:\xampp\htdocs\politique-de-confidentialite.php:144
+#: c:\xampp\htdocs\poster-annonce.php:306 c:\xampp\htdocs\profil.php:387
+#: c:\xampp\htdocs\qui-sommes-nous.php:160 c:\xampp\htdocs\recherche.php:323
+#: c:\xampp\htdocs\index.php:127
+msgid "Poster un article"
+msgstr "أضف مقال"
+
+#: c:\xampp\htdocs\annonces.php:270 c:\xampp\htdocs\articles.php:279
+#: c:\xampp\htdocs\annonces.php:318 c:\xampp\htdocs\articles.php:335
+msgid "Tout afficher"
+msgstr "اعلان الكل"
+
+#: c:\xampp\htdocs\article.php:217 c:\xampp\htdocs\article.php:356
+#: c:\xampp\htdocs\article.php:433 c:\xampp\htdocs\article.php:823
+msgid "Supprimer l'article"
+msgstr "حذف مقال"
+
+#: c:\xampp\htdocs\article.php:313 c:\xampp\htdocs\index.php:260
+#: c:\xampp\htdocs\article.php:780 c:\xampp\htdocs\index.php:318
+#: c:\xampp\htdocs\index.php:309
+msgid "À la une cette"
+msgstr "ظهرت هذا"
+
+#: c:\xampp\htdocs\article.php:313 c:\xampp\htdocs\index.php:260
+#: c:\xampp\htdocs\article.php:780 c:\xampp\htdocs\index.php:318
+#: c:\xampp\htdocs\index.php:309
+msgid "semaine"
+msgstr "أسبوع"
+
+#: c:\xampp\htdocs\article.php:349 c:\xampp\htdocs\articles.php:203
+#: c:\xampp\htdocs\index.php:262 c:\xampp\htdocs\article.php:816
+#: c:\xampp\htdocs\articles.php:325 c:\xampp\htdocs\index.php:320
+#: c:\xampp\htdocs\index.php:311
+msgid "Tous les articles"
+msgstr "كل الاشياء"
+
+#: c:\xampp\htdocs\connexion.php:55 c:\xampp\htdocs\connexion.php:65
+msgid "Mauvais mail ou mot de passe !"
+msgstr "البريد الإلكتروني أو كلمة المرور خاطئة!"
+
+#: c:\xampp\htdocs\connexion.php:59 c:\xampp\htdocs\inscription.php:95
+#: c:\xampp\htdocs\poster-annonce.php:183
+#: c:\xampp\htdocs\poster-article.php:220 c:\xampp\htdocs\connexion.php:69
+#: c:\xampp\htdocs\inscription.php:105 c:\xampp\htdocs\poster-annonce.php:198
+#: c:\xampp\htdocs\poster-article.php:235
+msgid "Tous les champs doivent être complétés !"
+msgstr "كل الحقول يجب أن تكون مملوئة!"
+
+#: c:\xampp\htdocs\connexion.php:123 c:\xampp\htdocs\connexion.php:155
+msgid "Compte créé avec succès !"
+msgstr "تم إنشاء الحساب بنجاح!"
+
+#: c:\xampp\htdocs\connexion.php:127 c:\xampp\htdocs\connexion.php:159
+msgid "Connectez-vous"
+msgstr "تسجيل الدخول"
+
+#: c:\xampp\htdocs\connexion.php:128 c:\xampp\htdocs\inscription.php:162
+#: c:\xampp\htdocs\connexion.php:160 c:\xampp\htdocs\inscription.php:193
+msgid "Pour rejoindre la communauté"
+msgstr "للانضمام إلى المجتمع"
+
+#: c:\xampp\htdocs\connexion.php:135 c:\xampp\htdocs\connexion.php:167
+msgid "Adresse e-mail ou Pseudo"
+msgstr "عنوان البريد الإلكتروني أو اللقب"
+
+#: c:\xampp\htdocs\connexion.php:146 c:\xampp\htdocs\inscription.php:205
+#: c:\xampp\htdocs\connexion.php:178 c:\xampp\htdocs\inscription.php:236
+msgid "Mot de passe"
+msgstr "كلمة السر"
+
+#: c:\xampp\htdocs\connexion.php:155 c:\xampp\htdocs\index.php:144
+#: c:\xampp\htdocs\inscription.php:225 c:\xampp\htdocs\connexion.php:187
+#: c:\xampp\htdocs\index.php:186 c:\xampp\htdocs\inscription.php:256
+#: c:\xampp\htdocs\index.php:177
+msgid "ou"
+msgstr "أو"
+
+#: c:\xampp\htdocs\connexion.php:155 c:\xampp\htdocs\index.php:144
+#: c:\xampp\htdocs\connexion.php:187 c:\xampp\htdocs\index.php:186
+#: c:\xampp\htdocs\index.php:177
+msgid "créer un compte"
+msgstr "إفتح حساب"
+
+#: c:\xampp\htdocs\index.php:169 c:\xampp\htdocs\profil.php:593
+#: c:\xampp\htdocs\annonce.php:301 c:\xampp\htdocs\annonces.php:278
+#: c:\xampp\htdocs\article.php:347 c:\xampp\htdocs\articles.php:296
+#: c:\xampp\htdocs\index.php:211 c:\xampp\htdocs\index.php:240
+#: c:\xampp\htdocs\mentions-legales.php:158 c:\xampp\htdocs\messagerie.php:252
+#: c:\xampp\htdocs\politique-de-confidentialite.php:156
+#: c:\xampp\htdocs\poster-annonce.php:313
+#: c:\xampp\htdocs\poster-article.php:334 c:\xampp\htdocs\profil.php:400
+#: c:\xampp\htdocs\profil.php:639 c:\xampp\htdocs\qui-sommes-nous.php:172
+#: c:\xampp\htdocs\recherche.php:335 c:\xampp\htdocs\index.php:202
+#: c:\xampp\htdocs\index.php:231
+msgid "Déconnexion"
+msgstr "تسجيل خروج"
+
+#: c:\xampp\htdocs\index.php:210 c:\xampp\htdocs\index.php:269
+#: c:\xampp\htdocs\index.php:260
+msgid "Bonjour"
+msgstr "صباح الخير"
+
+#: c:\xampp\htdocs\index.php:216 c:\xampp\htdocs\index.php:275
+#: c:\xampp\htdocs\index.php:266
+msgid "Bienvenue sur"
+msgstr "مرحبا بك في"
+
+#: c:\xampp\htdocs\index.php:218 c:\xampp\htdocs\index.php:277
+#: c:\xampp\htdocs\index.php:268
+msgid "La plateforme d'aide aux réfugiés dans l'ouest"
+msgstr "منصة مساعدة اللاجئين في الغرب"
+
+#: c:\xampp\htdocs\index.php:230 c:\xampp\htdocs\index.php:289
+#: c:\xampp\htdocs\index.php:280
+msgid "Sur"
+msgstr "أكيد"
+
+#: c:\xampp\htdocs\index.php:231 c:\xampp\htdocs\index.php:290
+#: c:\xampp\htdocs\index.php:281
+msgid "vous pouvez trouver de l'aide grâce à notre communauté grandissante."
+msgstr "يمكنك الحصول على المساعدة من خلال مجتمعنا المتنامي."
+
+#: c:\xampp\htdocs\index.php:241
+msgid ""
+"\"N'importe qui peut aider à son echelle. N'importe qui peut se faire aider"
+"\". Voilà ce qui nous caractérise."
+msgstr ""
+"\"يمكن لأي شخص المساعدة على سلمهم. يمكن لأي شخص الحصول على المساعدة\".  هذا "
+"ما يميزنا."
+
+#: c:\xampp\htdocs\index.php:252 c:\xampp\htdocs\index.php:310
+#: c:\xampp\htdocs\index.php:301
+msgid ""
+"Inscrivez vous dès maintenant pour poster une annonce et découvrir la "
+"communauté."
+msgstr "سجل الآن لنشر إعلان واكتشاف المجتمع."
+
+#: c:\xampp\htdocs\inscription.php:58 c:\xampp\htdocs\inscription.php:68
+msgid "Votre compte associatif a bien été créé !"
+msgstr "تم إنشاء حساب جمعيتك!"
+
+#: c:\xampp\htdocs\inscription.php:65 c:\xampp\htdocs\inscription.php:75
+msgid "Votre compte a bien été créé !"
+msgstr "لقد تم إنشاء حسابك !"
+
+#: c:\xampp\htdocs\inscription.php:72 c:\xampp\htdocs\inscription.php:82
+msgid "Vos mots de passe ne correspondent pas !"
+msgstr "كلمات السر الخاصة بك لا تتطابق!"
+
+#: c:\xampp\htdocs\inscription.php:75 c:\xampp\htdocs\profil.php:144
+#: c:\xampp\htdocs\inscription.php:85 c:\xampp\htdocs\profil.php:156
+msgid "Mot de passe trop court ! (8 caractères minimum)"
+msgstr "كلمة المرور قصيرة جدًا! (8 أحرف كحد أدنى)"
+
+#: c:\xampp\htdocs\inscription.php:78 c:\xampp\htdocs\inscription.php:88
+msgid "Pseudo déjà utilisé !"
+msgstr "الاسم المستعار مستخدم بالفعل!"
+
+#: c:\xampp\htdocs\inscription.php:81 c:\xampp\htdocs\inscription.php:91
+msgid "Adresse mail déjà utilisée !"
+msgstr "عنوان البريد الإلكتروني مستخدم بالفعل!"
+
+#: c:\xampp\htdocs\inscription.php:86 c:\xampp\htdocs\inscription.php:96
+msgid "Votre adresse mail n'est pas valide !"
+msgstr "عنوان بريدك الإلكتروني غير صالح!"
+
+#: c:\xampp\htdocs\inscription.php:89 c:\xampp\htdocs\profil.php:77
+#: c:\xampp\htdocs\inscription.php:99 c:\xampp\htdocs\profil.php:89
+msgid "Votre nom ne peut pas dépasser 255 caractères !"
+msgstr "لا يمكن أن يتجاوز اسمك 255 حرفًا"
+
+#: c:\xampp\htdocs\inscription.php:92 c:\xampp\htdocs\inscription.php:102
+msgid "Votre pseudo ne doit pas dépasser 255 caractères !"
+msgstr "يجب ألا يتجاوز اسم المستخدم الخاص بك 255 حرفاً"
+
+#: c:\xampp\htdocs\inscription.php:161 c:\xampp\htdocs\inscription.php:192
+msgid "Inscrivez-vous"
+msgstr "سجل"
+
+#: c:\xampp\htdocs\inscription.php:168 c:\xampp\htdocs\inscription.php:199
+msgid "Au nom d'une association"
+msgstr "نيابة عن جمعية"
+
+#: c:\xampp\htdocs\inscription.php:172 c:\xampp\htdocs\inscription.php:173
+#: c:\xampp\htdocs\inscription.php:257 c:\xampp\htdocs\inscription.php:203
+#: c:\xampp\htdocs\inscription.php:204 c:\xampp\htdocs\inscription.php:288
+msgid "Nom et prénom"
+msgstr "الإسم واللقب"
+
+#: c:\xampp\htdocs\inscription.php:182 c:\xampp\htdocs\inscription.php:183
+#: c:\xampp\htdocs\inscription.php:213 c:\xampp\htdocs\inscription.php:214
+msgid "Pseudo"
+msgstr "مستعار"
+
+#: c:\xampp\htdocs\inscription.php:193 c:\xampp\htdocs\inscription.php:194
+#: c:\xampp\htdocs\inscription.php:224 c:\xampp\htdocs\inscription.php:225
+msgid "Adresse e-mail"
+msgstr "البريد الإلكتروني"
+
+#: c:\xampp\htdocs\inscription.php:215 c:\xampp\htdocs\inscription.php:246
+msgid "Confirmation du mot de passe"
+msgstr "تأكيد كلمة المرور"
+
+#: c:\xampp\htdocs\inscription.php:223 c:\xampp\htdocs\inscription.php:254
+msgid "Je m'inscris"
+msgstr "أتسجل"
+
+#: c:\xampp\htdocs\inscription.php:225 c:\xampp\htdocs\inscription.php:256
+msgid "connectez-vous"
+msgstr "تسجيل الدخول"
+
+#: c:\xampp\htdocs\inscription.php:255 c:\xampp\htdocs\inscription.php:286
+msgid "Nom de votre association"
+msgstr "اسم جمعيتك"
+
+#: c:\xampp\htdocs\mentions-legales.php:151
+#: c:\xampp\htdocs\politique-de-confidentialite.php:144
+#: c:\xampp\htdocs\mentions-legales.php:189
+msgid "Site édité par"
+msgstr "تم تحرير الموقع بواسطة"
+
+#: c:\xampp\htdocs\mentions-legales.php:153
+#: c:\xampp\htdocs\politique-de-confidentialite.php:146
+#: c:\xampp\htdocs\mentions-legales.php:191
+msgid "Directeur de la publication"
+msgstr "مدير النشر"
+
+#: c:\xampp\htdocs\mentions-legales.php:155
+#: c:\xampp\htdocs\politique-de-confidentialite.php:148
+#: c:\xampp\htdocs\mentions-legales.php:193
+msgid "Droit d’accès"
+msgstr "إذن للوصول إلى"
+
+#: c:\xampp\htdocs\mentions-legales.php:156
+#: c:\xampp\htdocs\politique-de-confidentialite.php:149
+#: c:\xampp\htdocs\mentions-legales.php:194
+msgid ""
+"En application de la loi Informatique et liberté, vous disposez d’un droit "
+"d’accès, de rectification, de modification et de suppression concernant des "
+"données qui vous concernent personnellement. Ce droit peut être exercé par "
+"voie électronique ou par courrier postal, daté et signé, accompagné d'une "
+"copie d’un titre d’identité."
+msgstr ""
+"في تطبيق قانون حماية البيانات ، يحق لك الوصول إلى البيانات المتعلقة بك شخصيًا "
+"وتصحيحها وتعديلها وحذفها. يمكن ممارسة هذا الحق إلكترونيا أو عن طريق البريد ، "
+"مؤرخة وموقعة ، مصحوبة بنسخة من وثيقة الهوية"
+
+#: c:\xampp\htdocs\mentions-legales.php:158
+#: c:\xampp\htdocs\politique-de-confidentialite.php:151
+#: c:\xampp\htdocs\mentions-legales.php:196
+msgid ""
+"Les informations personnelles collectées ne sont en aucun cas confiées à des "
+"tiers."
+msgstr ""
+"المعلومات الشخصية التي تم جمعها لا تُعهد بأي حال من الأحوال إلى أطراف ثالثة"
+
+#: c:\xampp\htdocs\mentions-legales.php:159
+#: c:\xampp\htdocs\politique-de-confidentialite.php:152
+#: c:\xampp\htdocs\mentions-legales.php:197
+msgid "Propriété intellectuelle"
+msgstr "ملكية فكرية"
+
+#: c:\xampp\htdocs\mentions-legales.php:160
+#: c:\xampp\htdocs\politique-de-confidentialite.php:153
+#: c:\xampp\htdocs\mentions-legales.php:198
+msgid ""
+"Tout le contenu de notre site, incluant, de façon non limitative, les "
+"graphismes, images, textes, vidéos, animations, sons, logos et icônes, sont "
+"la propriété exclusive de l'éditeur du site, à l’exception des marques, "
+"logos ou contenus appartenant à d’autres organisations."
+msgstr ""
+"جميع محتويات موقعنا ، بما في ذلك ، على سبيل المثال لا الحصر ، تعد الرسومات "
+"والصور والنصوص ومقاطع الفيديو والرسوم المتحركة والأصوات والشعارات والرموز "
+"ملكية حصرية لمحرر الموقع ، باستثناء العلامات التجارية أو الشعارات أو المحتوى "
+"الذي ينتمي إلى مؤسسات أخرى"
+
+#: c:\xampp\htdocs\mentions-legales.php:161
+#: c:\xampp\htdocs\politique-de-confidentialite.php:154
+#: c:\xampp\htdocs\mentions-legales.php:199
+msgid "Hébergeur"
+msgstr "مضيف"
+
+#: c:\xampp\htdocs\poster-annonce.php:137
+#: c:\xampp\htdocs\poster-article.php:167
+#: c:\xampp\htdocs\poster-annonce.php:152
+#: c:\xampp\htdocs\poster-article.php:182
+msgid "Erreur durant l'importation de votre fichier"
+msgstr "خطأ في استيراد ملفك"
+
+#: c:\xampp\htdocs\poster-annonce.php:140
+#: c:\xampp\htdocs\poster-article.php:170
+msgid ""
+"Votre fichier doit être au format 'jpg', 'jpeg', 'gif', 'png', 'pdf', "
+"'doc','odt' ou 'docx'"
+msgstr ""
+"يجب أن يكون ملفك بتنسيق 'jpg' أو 'jpeg' أو 'gif' أو 'png' أو 'pdf' أو 'doc' "
+"أو 'odt' أو 'docx'"
+
+#: c:\xampp\htdocs\poster-annonce.php:143
+#: c:\xampp\htdocs\poster-article.php:173
+#: c:\xampp\htdocs\poster-annonce.php:158
+#: c:\xampp\htdocs\poster-article.php:188
+msgid "Votre fichier ne doit pas dépasser 2Mo"
+msgstr "يجب ألا يتجاوز ملفك 2 ميغابايت"
+
+#: c:\xampp\htdocs\poster-annonce.php:167
+#: c:\xampp\htdocs\poster-annonce.php:182
+msgid "Le nom de la ville ne peut pas dépasser 64 caractères"
+msgstr "لا يمكن أن يتجاوز اسم المدينة 64 حرفًا"
+
+#: c:\xampp\htdocs\poster-annonce.php:170
+#: c:\xampp\htdocs\poster-article.php:195
+#: c:\xampp\htdocs\poster-annonce.php:185
+#: c:\xampp\htdocs\poster-article.php:210
+msgid "La description de la section ne doit pas dépasser 128 caractères"
+msgstr "يجب ألا يتجاوز وصف القسم 128 حرفًا"
+
+#: c:\xampp\htdocs\poster-annonce.php:174
+#: c:\xampp\htdocs\poster-article.php:198
+#: c:\xampp\htdocs\poster-annonce.php:189
+#: c:\xampp\htdocs\poster-article.php:213
+msgid "Le titre de la section ne doit pas dépasser 64 caractères"
+msgstr "يجب ألا يتجاوز عنوان القسم 64 حرفًا"
+
+#: c:\xampp\htdocs\poster-annonce.php:177
+#: c:\xampp\htdocs\poster-annonce.php:192
+msgid "Le sous-titre ne doit pas dépasser 128 caractères"
+msgstr "يجب ألا يتجاوز العنوان الفرعي 128 حرفًا"
+
+#: c:\xampp\htdocs\poster-annonce.php:180
+#: c:\xampp\htdocs\poster-article.php:217
+#: c:\xampp\htdocs\poster-annonce.php:195
+#: c:\xampp\htdocs\poster-article.php:232
+msgid "Le titre ne doit pas dépasser 64 caractères"
+msgstr "يجب ألا يتجاوز العنوان 64 حرفًا"
+
+#: c:\xampp\htdocs\poster-annonce.php:292
+#: c:\xampp\htdocs\poster-annonce.php:336
+msgid "Poster une nouvelle annonce"
+msgstr "انشر إعلانًا جديدًا"
+
+#: c:\xampp\htdocs\poster-annonce.php:297
+#: c:\xampp\htdocs\poster-annonce.php:341
+msgid "Saisissez un titre pour votre annonce"
+msgstr "أدخل عنوانًا لإعلانك"
+
+#: c:\xampp\htdocs\poster-annonce.php:300
+#: c:\xampp\htdocs\poster-annonce.php:344
+msgid "Saisissez un sous-titre"
+msgstr "أدخل عنوانًا فرعيًا"
+
+#: c:\xampp\htdocs\poster-annonce.php:303
+#: c:\xampp\htdocs\poster-annonce.php:347
+msgid "Écrivez ici le texte de votre annonce"
+msgstr "اكتب نص إعلانك هنا"
+
+#: c:\xampp\htdocs\poster-annonce.php:310
+#: c:\xampp\htdocs\poster-annonce.php:354
+#: c:\xampp\htdocs\poster-article.php:397
+msgid "Catégories"
+msgstr "التصنيفات"
+
+#: c:\xampp\htdocs\poster-annonce.php:334
+#: c:\xampp\htdocs\poster-annonce.php:378
+msgid "Localisation"
+msgstr "موقعك"
+
+#: c:\xampp\htdocs\poster-annonce.php:335
+#: c:\xampp\htdocs\poster-annonce.php:379
+msgid "Ajouter un lieu à votre annonce"
+msgstr "أضف مكانا لإعلانك"
+
+#: c:\xampp\htdocs\poster-annonce.php:337
+#: c:\xampp\htdocs\poster-annonce.php:381
+msgid "Ajouter une ville"
+msgstr "أضف مدينة"
+
+#: c:\xampp\htdocs\poster-annonce.php:346
+#: c:\xampp\htdocs\poster-annonce.php:390
+#: c:\xampp\htdocs\poster-article.php:452
+msgid "Titre de la section"
+msgstr "عنوان القسم"
+
+#: c:\xampp\htdocs\poster-annonce.php:348
+#: c:\xampp\htdocs\poster-annonce.php:392
+#: c:\xampp\htdocs\poster-article.php:454
+msgid "Description de la section"
+msgstr "وصف القسم"
+
+#: c:\xampp\htdocs\poster-annonce.php:363
+#: c:\xampp\htdocs\poster-article.php:404
+#: c:\xampp\htdocs\poster-article.php:437
+#: c:\xampp\htdocs\poster-annonce.php:407
+#: c:\xampp\htdocs\poster-article.php:436
+#: c:\xampp\htdocs\poster-article.php:469
+msgid "Ajouter des fichiers"
+msgstr "إضافة ملفات"
+
+#: c:\xampp\htdocs\poster-annonce.php:365
+#: c:\xampp\htdocs\poster-article.php:406
+#: c:\xampp\htdocs\poster-article.php:439
+#: c:\xampp\htdocs\poster-annonce.php:409
+#: c:\xampp\htdocs\poster-article.php:438
+#: c:\xampp\htdocs\poster-article.php:471
+msgid "Fichiers sélectionnés"
+msgstr "الملفات المحددة"
+
+#: c:\xampp\htdocs\poster-annonce.php:365
+#: c:\xampp\htdocs\poster-article.php:406
+#: c:\xampp\htdocs\poster-article.php:439
+#: c:\xampp\htdocs\poster-annonce.php:409
+#: c:\xampp\htdocs\poster-article.php:438
+#: c:\xampp\htdocs\poster-article.php:471
+msgid "Taille totale"
+msgstr "الحجم الإجمالي"
+
+#: c:\xampp\htdocs\poster-annonce.php:371
+#: c:\xampp\htdocs\poster-article.php:445
+#: c:\xampp\htdocs\poster-annonce.php:415
+#: c:\xampp\htdocs\poster-article.php:477
+msgid "Lien externe n°1"
+msgstr "الرابط الخارجي رقم 1"
+
+#: c:\xampp\htdocs\poster-annonce.php:374
+#: c:\xampp\htdocs\poster-article.php:448
+#: c:\xampp\htdocs\poster-annonce.php:418
+#: c:\xampp\htdocs\poster-article.php:480
+msgid "Lien externe n°2"
+msgstr "الرابط الخارجي رقم 2"
+
+#: c:\xampp\htdocs\poster-annonce.php:377
+#: c:\xampp\htdocs\poster-article.php:451
+#: c:\xampp\htdocs\poster-annonce.php:421
+#: c:\xampp\htdocs\poster-article.php:483
+msgid "Lien externe n°3"
+msgstr "الرابط الخارجي رقم 3"
+
+#: c:\xampp\htdocs\poster-annonce.php:383
+#: c:\xampp\htdocs\poster-article.php:457
+#: c:\xampp\htdocs\poster-annonce.php:352
+#: c:\xampp\htdocs\poster-annonce.php:427
+#: c:\xampp\htdocs\poster-article.php:395
+#: c:\xampp\htdocs\poster-article.php:489
+msgid "Publier"
+msgstr "ينشر"
+
+#: c:\xampp\htdocs\poster-article.php:123 c:\xampp\htdocs\profil.php:171
+#: c:\xampp\htdocs\profil.php:183
+msgid "Erreur durant l'importation de votre photo de profil"
+msgstr "خطأ في استيراد صورة ملفك الشخصي"
+
+#: c:\xampp\htdocs\poster-article.php:126 c:\xampp\htdocs\article.php:209
+#: c:\xampp\htdocs\poster-article.php:111
+msgid "Votre image doit être au format svg"
+msgstr "يجب أن تكون صورتك بتنسيق svg"
+
+#: c:\xampp\htdocs\poster-article.php:129 c:\xampp\htdocs\article.php:212
+#: c:\xampp\htdocs\poster-article.php:114
+msgid "Votre image ne doit pas dépasser 2Mo"
+msgstr "يجب ألا تتجاوز صورتك 2 ميغابايت"
+
+#: c:\xampp\htdocs\poster-article.php:204
+#: c:\xampp\htdocs\poster-article.php:219
+msgid "Le sous-titre 4 ne doit pas dépasser 128 caractères"
+msgstr "يجب ألا يتجاوز العنوان الفرعي 4 128 حرفًا"
+
+#: c:\xampp\htdocs\poster-article.php:207
+#: c:\xampp\htdocs\poster-article.php:222
+msgid "Le sous-titre 3 ne doit pas dépasser 128 caractères"
+msgstr "يجب ألا يتجاوز العنوان الفرعي 3 128 حرفًا"
+
+#: c:\xampp\htdocs\poster-article.php:211
+#: c:\xampp\htdocs\poster-article.php:226
+msgid "Le sous-titre 2 ne doit pas dépasser 128 caractères"
+msgstr "يجب ألا يتجاوز العنوان الفرعي 2 128 حرفًا"
+
+#: c:\xampp\htdocs\poster-article.php:214
+#: c:\xampp\htdocs\poster-article.php:229
+msgid "Le sous-titre 1 ne doit pas dépasser 128 caractères"
+msgstr "يجب ألا يتجاوز العنوان الفرعي 1 128 حرفًا"
+
+#: c:\xampp\htdocs\poster-article.php:335
+#: c:\xampp\htdocs\poster-article.php:360
+msgid "Poster un nouvel article"
+msgstr "أضف مقال جديد"
+
+#: c:\xampp\htdocs\poster-article.php:340
+#: c:\xampp\htdocs\poster-article.php:365
+msgid "Saisissez un titre pour votre article"
+msgstr "أدخل عنوانا لمقالتك"
+
+#: c:\xampp\htdocs\poster-article.php:343
+#: c:\xampp\htdocs\poster-article.php:368
+msgid "Saisissez un sous-titre n°1"
+msgstr "أدخل عنوانًا فرعيًا # 1"
+
+#: c:\xampp\htdocs\poster-article.php:346
+#: c:\xampp\htdocs\poster-article.php:371
+msgid "Écrivez ici le paragraphe n°1"
+msgstr "اكتب هنا الفقرة رقم 1"
+
+#: c:\xampp\htdocs\poster-article.php:349
+#: c:\xampp\htdocs\poster-article.php:374
+msgid "Saisissez un sous-titre n°2"
+msgstr "أدخل عنوانًا فرعيًا # 2"
+
+#: c:\xampp\htdocs\poster-article.php:352
+#: c:\xampp\htdocs\poster-article.php:377
+msgid "Écrivez ici le paragraphe n°2"
+msgstr "اكتب هنا الفقرة رقم 2"
+
+#: c:\xampp\htdocs\poster-article.php:355
+#: c:\xampp\htdocs\poster-article.php:380
+msgid "Saisissez un sous-titre n°3"
+msgstr "أدخل عنوانًا فرعيًا # 3"
+
+#: c:\xampp\htdocs\poster-article.php:358
+#: c:\xampp\htdocs\poster-article.php:383
+msgid "Écrivez ici le paragraphe n°3"
+msgstr "اكتب هنا الفقرة 3"
+
+#: c:\xampp\htdocs\poster-article.php:361
+#: c:\xampp\htdocs\poster-article.php:386
+msgid "Saisissez un sous-titre n°4"
+msgstr "أدخل عنوانًا فرعيًا # 4"
+
+#: c:\xampp\htdocs\poster-article.php:364
+#: c:\xampp\htdocs\poster-article.php:389
+msgid "Écrivez ici le paragraphe n°4"
+msgstr "اكتب هنا الفقرة رقم 4"
+
+#: c:\xampp\htdocs\poster-article.php:397
+#: c:\xampp\htdocs\poster-article.php:427
+msgid "Illustration"
+msgstr "رسم"
+
+#: c:\xampp\htdocs\poster-article.php:398
+#: c:\xampp\htdocs\poster-article.php:428
+msgid "Définir l'image à la une"
+msgstr "قم بتعيين الصورة المميزة"
+
+#: c:\xampp\htdocs\profil.php:95 c:\xampp\htdocs\profil.php:107
+msgid "Pseudo déjà utilisé"
+msgstr "تم استخدام اللقب بالفعل"
+
+#: c:\xampp\htdocs\profil.php:98 c:\xampp\htdocs\profil.php:110
+msgid "Votre pseudo ne peut pas dépasser 255 caractères !"
+msgstr "لا يمكن أن يتجاوز اسم المستخدم الخاص بك 255 حرفاً!"
+
+#: c:\xampp\htdocs\profil.php:112 c:\xampp\htdocs\profil.php:124
+msgid "Votre description ne peut pas dépasser 255 caractères !"
+msgstr "لا يمكن أن يتجاوز وصفك 255 حرفًا!"
+
+#: c:\xampp\htdocs\profil.php:128 c:\xampp\htdocs\profil.php:140
+msgid "Mail déjà utilisé"
+msgstr "البريد قيد الاستخدام بالفعل"
+
+#: c:\xampp\htdocs\profil.php:142 c:\xampp\htdocs\profil.php:154
+msgid "Mot de passe mit à jour"
+msgstr "تم تحديث كلمة السر"
+
+#: c:\xampp\htdocs\profil.php:147 c:\xampp\htdocs\profil.php:159
+msgid "Vos deux mots de passes ne correspondent pas !"
+msgstr "كلمتا المرور غير متطابقتين!"
+
+#: c:\xampp\htdocs\profil.php:150 c:\xampp\htdocs\profil.php:162
+msgid "Champs vides !"
+msgstr "الحقول الفارغة!"
+
+#: c:\xampp\htdocs\profil.php:174 c:\xampp\htdocs\profil.php:186
+msgid "Votre photo de profil doit être au format jpg, jpeg, gif ou png"
+msgstr "يجب أن تكون صورة ملفك الشخصي بتنسيق jpg أو jpeg أو gif أو"
+
+#: c:\xampp\htdocs\profil.php:177 c:\xampp\htdocs\profil.php:189
+msgid "Votre photo de profil ne doit pas dépasser 2Mo"
+msgstr "يجب ألا تتجاوز صورة ملفك الشخصي 2 ميغابايت"
+
+#: c:\xampp\htdocs\profil.php:376 c:\xampp\htdocs\profil.php:433
+msgid "Utilisateur inexistant"
+msgstr "مستخدم غير موجود"
+
+#: c:\xampp\htdocs\profil.php:521 c:\xampp\htdocs\profil.php:572
+msgid "Nouveau mot de passe"
+msgstr "كلمة مرور جديدة"
+
+#: c:\xampp\htdocs\profil.php:523 c:\xampp\htdocs\profil.php:574
+msgid "Confirmez nouveau mot de passe"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+#: c:\xampp\htdocs\profil.php:588 c:\xampp\htdocs\profil.php:686
+#: c:\xampp\htdocs\profil.php:634 c:\xampp\htdocs\profil.php:730
+msgid "Signaler l'utilisateur"
+msgstr "أبلغ عن مستخدم"
+
+#: c:\xampp\htdocs\profil.php:589 c:\xampp\htdocs\profil.php:637
+msgid "Supprimer le compte"
+msgstr "حذف الحساب"
+
+#: c:\xampp\htdocs\profil.php:606 c:\xampp\htdocs\profil.php:650
+msgid "Annonces publiées"
+msgstr "نشر الإعلانات"
+
+#: c:\xampp\htdocs\profil.php:677 c:\xampp\htdocs\profil.php:721
+msgid "Supprimer le compte ?"
+msgstr "حذف الحساب ؟"
+
+#: c:\xampp\htdocs\annonce.php:107
+msgid "Le titre de l'annonce ne peut pas dépasser 50 caractères !"
+msgstr "لا يمكن أن يتجاوز عنوان الإعلان 50 حرفًا"
+
+#: c:\xampp\htdocs\annonce.php:119
+msgid "Le sous-titre 1 de l'annonce ne peut pas dépasser 100 caractères !"
+msgstr "لا يمكن أن يتجاوز العنوان الفرعي 1 من الإعلان 100 حرف"
+
+#: c:\xampp\htdocs\annonce.php:138
+msgid ""
+"Le titre de la section de l'annonce ne peut pas dépasser 50 caractères !"
+msgstr "لا يمكن أن يتجاوز عنوان قسم الإعلان 50 حرفًا"
+
+#: c:\xampp\htdocs\annonce.php:150
+msgid ""
+"La description de la section de l'annonce ne peut pas dépasser 200 "
+"caractères !"
+msgstr "لا يمكن أن يتجاوز وصف قسم الإعلان 200 حرف"
+
+#: c:\xampp\htdocs\annonce.php:697 c:\xampp\htdocs\annonces.php:347
+#: c:\xampp\htdocs\article.php:843 c:\xampp\htdocs\articles.php:367
+#: c:\xampp\htdocs\connexion.php:207 c:\xampp\htdocs\index.php:450
+#: c:\xampp\htdocs\inscription.php:274 c:\xampp\htdocs\mentions-legales.php:211
+#: c:\xampp\htdocs\messagerie.php:377
+#: c:\xampp\htdocs\politique-de-confidentialite.php:206
+#: c:\xampp\htdocs\poster-annonce.php:439
+#: c:\xampp\htdocs\poster-article.php:504 c:\xampp\htdocs\profil.php:715
+#: c:\xampp\htdocs\qui-sommes-nous.php:201
+#: c:\xampp\htdocs\qui-sommes-nous.php:223 c:\xampp\htdocs\recherche.php:385
+#: c:\xampp\htdocs\index.php:441
+msgid "Qui sommes-nous ?"
+msgstr "من نحن ؟"
+
+#: c:\xampp\htdocs\article.php:87
+msgid "Le titre de l'article ne peut pas dépasser 64 caractères !"
+msgstr "لا يمكن أن يتجاوز عنوان المقال 64 حرفًا"
+
+#: c:\xampp\htdocs\article.php:99
+msgid "Le sous-titre 1 de l'article ne peut pas dépasser 100 caractères !"
+msgstr "لا يمكن أن يتجاوز العنوان الفرعي للمقالة 100 حرف"
+
+#: c:\xampp\htdocs\article.php:110
+msgid "Le sous-titre 2 de l'article ne peut pas dépasser 100 caractères !"
+msgstr "لا يمكن أن يتجاوز العنوان الفرعي 2 من المقالة 100 حرف"
+
+#: c:\xampp\htdocs\article.php:121
+msgid "Le sous-titre 3 de l'article ne peut pas dépasser 100 caractères !"
+msgstr "لا يمكن أن يتجاوز العنوان الفرعي 3 من المقالة 100 حرف"
+
+#: c:\xampp\htdocs\article.php:132
+msgid "Le sous-titre 4 de l'article ne peut pas dépasser 100 caractères !"
+msgstr "لا يمكن أن يتجاوز العنوان الفرعي 4 من المقالة 100 حرف"
+
+#: c:\xampp\htdocs\article.php:172
+msgid ""
+"Le titre de la section de l'article ne peut pas dépasser 100 caractères !"
+msgstr "لا يمكن أن يتجاوز عنوان القسم 100 حرف"
+
+#: c:\xampp\htdocs\article.php:184
+msgid ""
+"La description de la section de l'article ne peut pas dépasser 200 "
+"caractères !"
+msgstr "لا يمكن أن يتجاوز وصف قسم المقالة 200 حرف"
+
+#: c:\xampp\htdocs\article.php:206 c:\xampp\htdocs\poster-article.php:108
+msgid "Erreur durant l'importation de votre image"
+msgstr "خطأ في استيراد صورتك"
+
+#: c:\xampp\htdocs\article.php:215 c:\xampp\htdocs\poster-article.php:117
+msgid "Vous devez selectionner une image d'illustration"
+msgstr "يجب عليك تحديد صورة توضيحية"
+
+#: c:\xampp\htdocs\index.php:299 c:\xampp\htdocs\index.php:290
+msgid ""
+"N'importe qui peut aider à son échelle. N'importe qui peut se faire aider. "
+"Voilà ce qui nous caractérise."
+msgstr ""
+"يمكن لأي شخص أن يساعد على نطاقه الخاص. يمكن لأي شخص الحصول على المساعدة. هذا "
+"ما يميزنا"
+
+#: c:\xampp\htdocs\mentions-legales.php:200
+msgid ""
+"est hébergé par o2switch, 222-224 Boulevard Gustave Flaubert, 63000 Clermont-"
+"Ferrand - Capital de 100000€ - Siret 510 909 80700024"
+msgstr ""
+"تستضيفه o2switch ، 222-224 Boulevard Gustave Flaubert ، 63000 Clermont-"
+"Ferrand - عاصمة 100.000 يورو - Siret 510 909 80700024"
+
+#: c:\xampp\htdocs\messagerie.php:350
+msgid "Saisissez votre message"
+msgstr ""
+
+#: c:\xampp\htdocs\messagerie.php:351
+msgid "Envoyer"
+msgstr "أدخل رسالتك"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:187
+msgid "Utilisation des données personnelles collectées"
+msgstr "استخدام البيانات الشخصية التي تم جمعها"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:188
+msgid "Contribution"
+msgstr "إسهام"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:189
+msgid ""
+"Si vous vous connectez à notre site web pour contribuer au contenu, vos "
+"données de connexion, telle que votre pseudo, votre adresse IP et les "
+"informations de l’agent utilisateur de votre navigateur sont collectés pour "
+"nous aider à la détection des connexions indésirables. Votre mot de passe de "
+"connexion au site est stocké sur nos serveurs sous forme cryptée. Nous n'y "
+"avons pas accès en clair."
+msgstr ""
+"إذا قمت بتسجيل الدخول إلى موقعنا الإلكتروني للمساهمة بالمحتوى ، فسيتم جمع "
+"تفاصيل تسجيل الدخول الخاصة بك ، مثل اسم المستخدم وعنوان IP ومعلومات وكيل "
+"المستخدم من متصفحك لمساعدتنا على اكتشاف الاتصالات غير المرغوب فيها. يتم "
+"تخزين كلمة مرور تسجيل الدخول إلى موقع الويب الخاص بك على خوادمنا في شكل "
+"مشفر. ليس لدينا وصول واضح"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:190
+msgid "Média"
+msgstr "وسائل الإعلام"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:191
+msgid ""
+"Si vous êtes un utilisateur ou une utilisatrice enregistré·e et que vous "
+"téléversez des images sur le site web, nous vous conseillons d’éviter de "
+"téléverser des images contenant des données EXIF de coordonnées GPS. Les "
+"visiteurs de votre site web peuvent télécharger et extraire des données de "
+"localisation depuis ces images."
+msgstr ""
+"إذا كنت مستخدمًا مسجلاً وتحمل صورًا على موقع الويب ، فإننا نوصي بتجنب تحميل "
+"الصور التي تحتوي على بيانات EXIF ​​من إحداثيات GPS. يمكن لزوار موقع الويب "
+"الخاص بك تنزيل واستخراج بيانات الموقع من هذه الصور"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:192
+msgid "Contenu embarqué depuis d’autres sites"
+msgstr "محتوى مضمن من مواقع أخرى"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:193
+msgid ""
+"Les articles de ce site peuvent inclure des contenus intégrés (par exemple "
+"des vidéos, images, articles…). Le contenu intégré depuis d’autres sites se "
+"comporte de la même manière que si le visiteur se rendait sur cet autre "
+"site. Ces sites web pourraient collecter des données sur vous, utiliser des "
+"cookies, embarquer des outils de suivis tiers, suivre vos interactions avec "
+"ces contenus embarqués si vous disposez d’un compte connecté sur leur site "
+"web."
+msgstr ""
+"قد تتضمن المقالات الموجودة في هذا الموقع محتوى مدمجًا (مثل مقاطع الفيديو "
+"والصور والمقالات وما إلى ذلك). يتصرف المحتوى المضمن من مواقع أخرى بنفس "
+"الطريقة كما لو ذهب الزائر إلى ذلك الموقع الآخر. يمكن لهذه المواقع "
+"الإلكترونية جمع بيانات عنك ، واستخدام ملفات تعريف الارتباط ، وتضمين أدوات "
+"التتبع من جهة خارجية ، وتتبع تفاعلاتك مع هذا المحتوى المضمن إذا كان لديك "
+"حساب متصل بموقعهم على الويب."
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:194
+msgid "Durée de stockage de vos données"
+msgstr "مدة تخزين بياناتك"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:195
+msgid ""
+"Si vous publiez des contenus sur ce site, ces contenus et leurs métadonnées "
+"sont conservés indéfiniment. Pour les utilisateurs et utilisatrices qui "
+"s’enregistrent sur notre site, nous stockons également les données "
+"personnelles indiquées dans leur profil. Tous les utilisateurs et "
+"utilisatrices peuvent voir, modifier ou supprimer leurs informations "
+"personnelles à tout moment (pseudonyme, e-mail, mini-biographie, avatar). "
+"Les gestionnaires du site peuvent aussi voir et modifier ces informations."
+msgstr ""
+"إذا نشرت محتوى على هذا الموقع ، فسيتم الاحتفاظ بهذا المحتوى وبياناته الوصفية "
+"إلى أجل غير مسمى. للمستخدمين الذين يسجلون على موقعنا ، نقوم أيضًا بتخزين "
+"البيانات الشخصية الموضحة في ملفهم الشخصي. يمكن لجميع المستخدمين عرض "
+"معلوماتهم الشخصية أو تعديلها أو حذفها في أي وقت (الاسم المستعار ، البريد "
+"الإلكتروني ، السيرة الذاتية المصغرة ، الصورة الرمزية). يمكن لمديري المواقع "
+"أيضًا عرض وتعديل هذه المعلومات"
+
+#: c:\xampp\htdocs\poster-annonce.php:155
+#: c:\xampp\htdocs\poster-article.php:185
+msgid ""
+"Votre fichier doit être au format 'jpg', 'jpeg', 'gif', 'png', 'pdf', 'doc', "
+"'odt' ou 'docx'"
+msgstr ""
+"يجب أن يكون الملف بتنسيق 'jpg' أو 'jpeg' أو 'gif' أو 'png' أو 'pdf' أو 'doc' "
+"أو 'odt' أو 'docx'"
+
+#: c:\xampp\htdocs\qui-sommes-nous.php:205
+msgid "L'équipe"
+msgstr "الفريق"
+
+#: c:\xampp\htdocs\qui-sommes-nous.php:206
+msgid ""
+"Nous sommes une équipe de 5 étudiants actuellement en première année de DUT "
+"Métiers du Multimédia et de l'Internet : Martin, Titouan, Quentin, Théo et "
+"Killian. Nous avons décidé de créer ce site lors de notre projet tuteuré de "
+"fin d'année."
+msgstr ""
+"نحن فريق مكون من 5 طلاب حاليًا في عامهم الأول من مهن DUT للوسائط المتعددة "
+"والإنترنت: Martin و Titouan و Quentin و Théo و Killian. قررنا إنشاء هذا "
+"الموقع خلال مشروعنا التعليمي في نهاية العام."
+
+#: c:\xampp\htdocs\qui-sommes-nous.php:207
+msgid "Notre mission"
+msgstr "مهمتنا"
+
+#: c:\xampp\htdocs\qui-sommes-nous.php:208
+msgid ""
+"La mission de \"Je viens d’ailleurs\" est avant tout de mettre en relation "
+"des réfugiés et demandeurs d’asile avec des personnes pouvant les aider lors "
+"de leur processus d'intégration dans la société française. Je viens "
+"d'ailleurs a aussi pour mission de référencer et rendre visible de "
+"nombreuses initiatives qui manquent parfois de visibilité et ne profitent "
+"pas à tout le monde."
+msgstr ""
+"تتمثل مهمة \"Je viens d’ailleurs\" في المقام الأول في وضع اللاجئين وطالبي "
+"اللجوء على اتصال مع الأشخاص الذين يمكنهم مساعدتهم خلال عملية اندماجهم في "
+"المجتمع الفرنسي. Je viens d'ailleurs لديه أيضًا مهمة الإشارة وإظهار العديد من "
+"المبادرات التي تفتقر إلى الرؤية أحيانًا ولا تفيد الجميع."
+
+#: c:\xampp\htdocs\qui-sommes-nous.php:212
+msgid ""
+"Je suis d'où je vais. Nous ne sommes pas définis par le lieu où nous sommes "
+"nés mais par le chemin que nous parcourons"
+msgstr ""
+"أنا من حيث أذهب. لا يتم تعريفنا بالمكان الذي ولدنا فيه ولكن بالطريق الذي "
+"نسلكه"
+
+#: c:\xampp\htdocs\recherche.php:132 c:\xampp\htdocs\recherche.php:206
+#: c:\xampp\htdocs\recherche.php:231
+msgid "Pas de résultats"
+msgstr "لا نتائج"
+
+#: c:\xampp\htdocs\recherche.php:210
+msgid "Profils"
+msgstr "مظهر"

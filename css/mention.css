@@ -1,0 +1,128 @@
+.mentions {
+    padding: 85px 250px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+.text-container p {
+    font-size: 20px;
+    margin-bottom: 20px; 
+}
+
+.top-bar {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    top: 40px;
+    z-index: 101;
+}
+
+.whoweare-illustration{
+    width: 50%;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.whoweare-text{
+    max-width: 60vw;
+}
+
+.text-wrapper{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.text-container{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing-info {
+	display: flex;
+	padding: 30px;
+	background-color: #fbfbfb;
+    border-radius: 30px;
+    margin-top: 20px;
+	max-width: 50vw;
+	align-items: center;
+	transition: box-shadow 0.3s ease-in-out;
+}
+
+.landing-info:hover {
+	box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.15);
+}
+
+.cite {
+    font-size: 22px;
+}
+
+.author {
+    font-size: 18px;
+}
+
+.whoweare-title{
+    margin-bottom: 30px;
+}
+
+.legal-text{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.policy-text{
+    font-size: 20px;
+}
+
+.policy-title{
+    font-size: 25px;
+}
+
+.email a{
+    color : #f29559;
+    transition-duration: 0.3s;
+    font-weight: 400;
+}
+
+
+@media only screen and (max-width: 850px) {
+    .mentions {
+        padding: 90px 15px;
+    }  
+
+    .whoweare-illustration{
+        width: 100%;
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+
+    .text-wrapper{
+        flex-direction: column;
+    }
+
+    .text-container{
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .whoweare-text{
+        max-width: 80vw;
+    }
+
+
+}

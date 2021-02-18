@@ -1,0 +1,187 @@
+html[dir=rtl] .languages{
+    left : 0;
+    right : auto;
+    border-radius: 0 15px 15px 0;
+}
+
+html[dir=rtl] .top-buttons{
+    left : 100px;
+    right : auto;
+}
+
+html[dir=rtl] .top-buttons{
+    left : 100px;
+    right : auto;
+}
+
+html[dir=rtl] .search-bar svg{
+    left : 25px;
+    right : auto;
+}
+
+html[dir=rtl] .right-landing svg{
+    margin-left : 30px;
+    margin-right : 0;
+}
+
+html[dir=rtl] .landing-header{
+    margin : 0 0 0 30px;
+}
+
+html[dir=rtl] .left-landing{
+    margin-left : 20px;
+    margin-right: 0;
+}
+
+html[dir=rtl] .articles, html[dir=rtl] .offers{
+    padding-left: 50px;
+    padding-right: 0;
+}
+
+html[dir=rtl] .menu-links svg{
+    padding-left: 20px;
+    padding-right: 0;
+}
+
+html[dir=rtl] .info-wrapper{
+    left : auto;
+    right : 20px
+}
+
+html[dir=rtl] .profile-img{
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+html[dir=rtl] .post-place svg{
+    margin-left : 10px;
+    margin-right: 0;
+}
+
+html[dir=rtl] .pin-article{
+    left : 20px;
+    right : auto;
+}
+
+html[dir=rtl] .stick-to-left .menu-links{
+    border-radius: 30px 0 0 30px;
+}
+
+html[dir=rtl] .small-menu svg{
+    padding : 0 20px;
+}
+
+html[dir=rtl] .top-button{
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+html[dir=rtl] .liste-filtres{
+    left : 7vw;
+    right : auto;
+}
+
+html[dir=rtl] .post-title{
+    margin-left: 15px;
+    margin-right: 0;
+}
+
+html[dir=rtl] .post-article p.date-article{
+    text-align: right;
+}
+
+html[dir=rtl] .post-info.post-article{
+    left : auto;
+    right : auto;
+}
+
+html[dir=rtl] .three-dots{
+    left : 20px;
+    right : auto;
+}
+
+html[dir=rtl] .three-dots-menu{
+    right : auto;
+    left: 0;
+}
+
+html[dir=rtl] .post-header .post-info{
+    right : auto;
+    left: 20px;
+}
+
+html[dir=rtl] .post-header .post-info.post-article{
+    right : 20px;
+    left: auto;
+}
+
+html[dir=rtl] .profile-block .img-container{
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+html[dir=rtl] .edit-pen, html[dir=rtl] .validate{
+    right : auto;
+    left: 0;
+}
+
+html[dir=rtl] .pseudo-span{
+    left : auto;
+    right : 0;
+}
+
+html[dir=rtl] .profile-block .pseudo-input{
+    margin-right: 30px;
+    margin-left: 0;
+}
+
+html[dir=rtl] .signup-date{
+    left : 20px;
+    right : auto;
+}
+
+html[dir=rtl] .sign-form form svg{
+    right : 20px;
+    left : auto;
+}
+
+html[dir=rtl] .sign-input{
+    padding : 15px 60px 15px 10px
+}
+
+html[dir=rtl] .switch{
+    padding-right : 0;
+    padding-left : 15px;
+}
+
+html[dir=rtl] .slider{
+    left : 0;
+    right : auto;
+}
+
+html[dir=rtl] .contact-container{
+    border-radius: 0 25px 25px 0 ;
+    border-left: #f2f2f2 solid 2px;
+    border-right: none;
+
+}
+
+html[dir=rtl] .form-inputs{
+    margin-left: 15px;
+}
+
+html[dir=rtl] .avatar-hover-menu{
+    right : auto;
+    left: 0;
+}
+
+html[dir=rtl] .whoweare-illustration{
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+html[dir=rtl] .text-container{
+    margin-right: 20px;
+    margin-left: 0;
+}
+

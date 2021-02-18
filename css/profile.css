@@ -1,0 +1,297 @@
+div.top-bar {
+	position: absolute;
+}
+
+main {
+	padding: 10vh 10vh 0 10vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.profile-block {
+	
+	position: relative;
+}
+
+.profile-block .profile {
+	align-items: flex-start;
+}
+
+.profile-block .img-container {
+	width: 100px;
+	height: 100px;
+    margin-right: 20px;
+    border-radius: 10px;
+    position: relative;
+
+}
+
+.img-container:hover .overlay{
+    opacity: 1;
+    position: absolute;
+}
+
+.img-container svg{
+    z-index: 1;
+    left : 50px;
+    top: 50px;
+
+}
+
+.profile-block .profile-img{
+    width: 100%;
+    height: 100%;
+}
+
+.overlay{
+    opacity: 0;
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    transition: all ease-in-out 0.3s;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.three-dots {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+.img-pen{
+    width: 20px;
+}
+
+.profile-block .user-name {
+	color: #f29559;
+	font-weight: bold;
+	font-size: 35px;
+	margin: 5px 0;
+}
+
+.profile-block .user-pseudo {
+	font-size: 25px;
+    color: #a2a2a2;
+    margin: 5px 0;
+
+}
+
+.profile-block .profile-desc {
+	margin: 20px 0;
+	font-size: 20px;
+}
+
+.signup-date {
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+}
+
+.posts-list {
+	display: flex;
+    margin: 10px 0;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.offers-posted {
+	width: 60%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.offers-posted .merriweather {
+	color: #f29559;
+	font-weight: bold;
+}
+
+.input-container input, .input-container textarea{
+    border: none;
+    background: none;
+    width: 100%;
+}
+
+.input-container textarea{
+    width:100%;
+    resize: none;
+}
+
+.profile-block form:not(.img){
+    border-bottom: #FBFBFB solid 2px;
+    position: relative;
+}
+
+.profile-block form.edit-mode{
+    border-bottom: #f29559 solid 2px;
+}
+
+.edit-pen.edit-mode .edit-path{
+    visibility: hidden;
+    opacity: 0;
+}
+
+.edit-pen.edit-mode+label .validate{
+    opacity: 1;
+    visibility: visible;
+}
+
+.edit-pen, .validate{
+    width: 15px;
+    position: absolute;
+    right : 0;
+    top : 15px;
+    cursor : pointer;
+}
+
+.overlay{
+    cursor: pointer;
+}
+
+.edit-pen .edit-path{
+    opacity: 1;
+}
+
+.validate{
+    opacity: 0;
+    visibility: hidden;
+}
+
+.input-container input[type=submit], input[type=file]{
+    display: none;
+}
+
+.mdp2{
+    visibility: hidden;
+    opacity: 0;
+    transition: all ease-in-out 0.3s;
+}
+
+.edit-mode.passwords .mdp2{
+    visibility: visible;
+    opacity: 1;
+}
+
+.profile-block .pseudo-input{
+    margin-left: 30px;
+}
+.pseudo-span{
+    position: absolute;
+    left : 0;
+    top: 5px;
+    background-color: #e7e7e7;
+    border-radius: 20px;
+    padding: 5px;
+}
+.pseudo-span::after{
+    content : '@';
+    color : #a2a2a2;
+}
+
+.popup-container2.visible{
+    visibility: visible;
+    opacity: 1;
+    display: flex;
+}
+
+.popup-container2{
+    position: absolute;
+    display: none;
+    align-items: center;
+    visibility: hidden;
+    opacity: 0;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    top : 0;
+    left: 0;
+    z-index: 300;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: all ease-in-out 0.3s;
+}
+.description-from{
+    margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 850px) {
+	main {
+        padding: 80px 10px 0px 0px;
+        display: flex;
+        align-items: center;
+    }
+    
+    .profile-block{
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .profile-block .profile{
+        display: flex;
+        flex-direction: column; 
+    }
+
+    .overlay{
+        opacity: 0;
+        position: absolute;
+        top:0;
+        left:0;
+        width: 70%;
+        height: 70%;
+        background-color: rgba(0, 0, 0, 0.3);
+        transition: all ease-in-out 0.3s;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    
+    }
+
+    .posts-list{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .input-container input,.input-container textarea{
+        border: none;
+        background: none;
+        width: 90%;
+    }
+    
+    .input-container textarea{
+        width:90%;
+        resize: none;
+    }
+    
+    .user-pseudo {
+        font-size: 15px;
+        margin: 5px 0;
+    }
+
+    .raleway input{
+        font-size: 15px;
+    }
+
+    .offers-posted {
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .profile-block .user-name {
+        color: #f29559;
+        font-weight: bold;
+        font-size: 25px;
+        margin: 5px 0;
+    }
+}

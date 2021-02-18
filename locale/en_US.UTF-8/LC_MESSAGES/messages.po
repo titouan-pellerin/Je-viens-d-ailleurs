@@ -1,0 +1,1242 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-25 16:18+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_US.UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: c:\xampp\htdocs\annonce.php:105 c:\xampp\htdocs\annonces.php:80
+#: c:\xampp\htdocs\article.php:89 c:\xampp\htdocs\articles.php:95
+#: c:\xampp\htdocs\articles.php:275 c:\xampp\htdocs\index.php:102
+#: c:\xampp\htdocs\mentions-legales.php:40
+#: c:\xampp\htdocs\poster-annonce.php:200
+#: c:\xampp\htdocs\poster-article.php:222 c:\xampp\htdocs\article.php:90
+#: c:\xampp\htdocs\mentions-legales.php:52
+#: c:\xampp\htdocs\politique-de-confidentialite.php:40
+#: c:\xampp\htdocs\poster-article.php:236 c:\xampp\htdocs\annonce.php:236
+#: c:\xampp\htdocs\annonces.php:210 c:\xampp\htdocs\article.php:283
+#: c:\xampp\htdocs\articles.php:234 c:\xampp\htdocs\index.php:148
+#: c:\xampp\htdocs\mentions-legales.php:96 c:\xampp\htdocs\messagerie.php:190
+#: c:\xampp\htdocs\politique-de-confidentialite.php:94
+#: c:\xampp\htdocs\poster-annonce.php:257
+#: c:\xampp\htdocs\poster-article.php:278 c:\xampp\htdocs\profil.php:335
+#: c:\xampp\htdocs\qui-sommes-nous.php:110 c:\xampp\htdocs\recherche.php:283
+msgid "Accueil"
+msgstr "Home"
+
+#: c:\xampp\htdocs\annonce.php:116 c:\xampp\htdocs\annonces.php:90
+#: c:\xampp\htdocs\article.php:100 c:\xampp\htdocs\articles.php:105
+#: c:\xampp\htdocs\articles.php:276 c:\xampp\htdocs\index.php:112
+#: c:\xampp\htdocs\mentions-legales.php:50
+#: c:\xampp\htdocs\poster-annonce.php:210
+#: c:\xampp\htdocs\poster-article.php:232 c:\xampp\htdocs\profil.php:274
+#: c:\xampp\htdocs\article.php:101 c:\xampp\htdocs\mentions-legales.php:62
+#: c:\xampp\htdocs\politique-de-confidentialite.php:50
+#: c:\xampp\htdocs\poster-article.php:246 c:\xampp\htdocs\profil.php:276
+#: c:\xampp\htdocs\annonce.php:247 c:\xampp\htdocs\annonces.php:220
+#: c:\xampp\htdocs\article.php:294 c:\xampp\htdocs\articles.php:244
+#: c:\xampp\htdocs\index.php:158 c:\xampp\htdocs\mentions-legales.php:106
+#: c:\xampp\htdocs\messagerie.php:200
+#: c:\xampp\htdocs\politique-de-confidentialite.php:104
+#: c:\xampp\htdocs\poster-annonce.php:267
+#: c:\xampp\htdocs\poster-article.php:288 c:\xampp\htdocs\profil.php:345
+#: c:\xampp\htdocs\qui-sommes-nous.php:120 c:\xampp\htdocs\recherche.php:90
+#: c:\xampp\htdocs\recherche.php:294
+msgid "Articles"
+msgstr "News"
+
+#: c:\xampp\htdocs\annonce.php:126 c:\xampp\htdocs\annonces.php:100
+#: c:\xampp\htdocs\article.php:110 c:\xampp\htdocs\articles.php:115
+#: c:\xampp\htdocs\articles.php:277 c:\xampp\htdocs\index.php:122
+#: c:\xampp\htdocs\mentions-legales.php:60
+#: c:\xampp\htdocs\poster-annonce.php:220
+#: c:\xampp\htdocs\poster-article.php:242 c:\xampp\htdocs\profil.php:284
+#: c:\xampp\htdocs\article.php:111 c:\xampp\htdocs\mentions-legales.php:72
+#: c:\xampp\htdocs\politique-de-confidentialite.php:60
+#: c:\xampp\htdocs\poster-article.php:256 c:\xampp\htdocs\profil.php:286
+#: c:\xampp\htdocs\annonce.php:257 c:\xampp\htdocs\annonces.php:230
+#: c:\xampp\htdocs\article.php:304 c:\xampp\htdocs\articles.php:254
+#: c:\xampp\htdocs\index.php:168 c:\xampp\htdocs\mentions-legales.php:116
+#: c:\xampp\htdocs\messagerie.php:210
+#: c:\xampp\htdocs\politique-de-confidentialite.php:114
+#: c:\xampp\htdocs\poster-annonce.php:277
+#: c:\xampp\htdocs\poster-article.php:298 c:\xampp\htdocs\profil.php:355
+#: c:\xampp\htdocs\qui-sommes-nous.php:130 c:\xampp\htdocs\recherche.php:137
+#: c:\xampp\htdocs\recherche.php:304
+msgid "Annonces"
+msgstr "Notices"
+
+#: c:\xampp\htdocs\annonce.php:136 c:\xampp\htdocs\annonces.php:110
+#: c:\xampp\htdocs\article.php:120 c:\xampp\htdocs\articles.php:125
+#: c:\xampp\htdocs\articles.php:278 c:\xampp\htdocs\index.php:132
+#: c:\xampp\htdocs\mentions-legales.php:70
+#: c:\xampp\htdocs\poster-annonce.php:230
+#: c:\xampp\htdocs\poster-article.php:252 c:\xampp\htdocs\profil.php:294
+#: c:\xampp\htdocs\article.php:121 c:\xampp\htdocs\mentions-legales.php:82
+#: c:\xampp\htdocs\politique-de-confidentialite.php:70
+#: c:\xampp\htdocs\poster-article.php:266 c:\xampp\htdocs\profil.php:296
+#: c:\xampp\htdocs\annonce.php:267 c:\xampp\htdocs\annonces.php:240
+#: c:\xampp\htdocs\article.php:314 c:\xampp\htdocs\articles.php:264
+#: c:\xampp\htdocs\index.php:178 c:\xampp\htdocs\mentions-legales.php:126
+#: c:\xampp\htdocs\messagerie.php:220
+#: c:\xampp\htdocs\politique-de-confidentialite.php:124
+#: c:\xampp\htdocs\poster-annonce.php:287
+#: c:\xampp\htdocs\poster-article.php:308 c:\xampp\htdocs\profil.php:365
+#: c:\xampp\htdocs\qui-sommes-nous.php:140 c:\xampp\htdocs\recherche.php:314
+msgid "Messages"
+msgstr "Messages"
+
+#: c:\xampp\htdocs\annonce.php:150 c:\xampp\htdocs\annonces.php:133
+#: c:\xampp\htdocs\article.php:138 c:\xampp\htdocs\articles.php:144
+#: c:\xampp\htdocs\index.php:93 c:\xampp\htdocs\mentions-legales.php:89
+#: c:\xampp\htdocs\poster-article.php:266 c:\xampp\htdocs\profil.php:315
+#: c:\xampp\htdocs\article.php:139 c:\xampp\htdocs\mentions-legales.php:101
+#: c:\xampp\htdocs\politique-de-confidentialite.php:89
+#: c:\xampp\htdocs\poster-article.php:280 c:\xampp\htdocs\profil.php:317
+#: c:\xampp\htdocs\annonce.php:288 c:\xampp\htdocs\annonces.php:266
+#: c:\xampp\htdocs\article.php:335 c:\xampp\htdocs\articles.php:286
+#: c:\xampp\htdocs\index.php:139 c:\xampp\htdocs\mentions-legales.php:148
+#: c:\xampp\htdocs\messagerie.php:242
+#: c:\xampp\htdocs\politique-de-confidentialite.php:146
+#: c:\xampp\htdocs\poster-article.php:325 c:\xampp\htdocs\profil.php:390
+#: c:\xampp\htdocs\qui-sommes-nous.php:162 c:\xampp\htdocs\recherche.php:325
+msgid "Poster une annonce"
+msgstr "Post a notice"
+
+#: c:\xampp\htdocs\annonce.php:162 c:\xampp\htdocs\annonces.php:145
+#: c:\xampp\htdocs\article.php:150 c:\xampp\htdocs\articles.php:154
+#: c:\xampp\htdocs\index.php:139 c:\xampp\htdocs\mentions-legales.php:99
+#: c:\xampp\htdocs\article.php:151 c:\xampp\htdocs\connexion.php:151
+#: c:\xampp\htdocs\mentions-legales.php:111
+#: c:\xampp\htdocs\politique-de-confidentialite.php:99
+#: c:\xampp\htdocs\annonce.php:306 c:\xampp\htdocs\annonces.php:283
+#: c:\xampp\htdocs\article.php:352 c:\xampp\htdocs\articles.php:301
+#: c:\xampp\htdocs\connexion.php:186 c:\xampp\htdocs\index.php:185
+#: c:\xampp\htdocs\mentions-legales.php:163 c:\xampp\htdocs\messagerie.php:257
+#: c:\xampp\htdocs\politique-de-confidentialite.php:161
+#: c:\xampp\htdocs\profil.php:405 c:\xampp\htdocs\qui-sommes-nous.php:177
+#: c:\xampp\htdocs\recherche.php:340
+msgid "Connexion"
+msgstr "Login"
+
+#: c:\xampp\htdocs\annonce.php:183 c:\xampp\htdocs\profil.php:374
+#: c:\xampp\htdocs\annonce.php:194 c:\xampp\htdocs\profil.php:387
+#: c:\xampp\htdocs\annonce.php:334 c:\xampp\htdocs\profil.php:473
+msgid "Nombre de signalements"
+msgstr "Number of reports"
+
+#: c:\xampp\htdocs\annonce.php:235 c:\xampp\htdocs\annonce.php:369
+#: c:\xampp\htdocs\annonce.php:246 c:\xampp\htdocs\annonce.php:388
+#: c:\xampp\htdocs\annonce.php:408 c:\xampp\htdocs\annonce.php:664
+msgid "Supprimer l'annonce"
+msgstr "Delete notice"
+
+#: c:\xampp\htdocs\annonce.php:236 c:\xampp\htdocs\annonce.php:384
+#: c:\xampp\htdocs\annonce.php:247 c:\xampp\htdocs\annonce.php:403
+#: c:\xampp\htdocs\annonce.php:410 c:\xampp\htdocs\annonce.php:678
+msgid "Signaler l'annonce"
+msgstr "Report notice"
+
+#: c:\xampp\htdocs\annonce.php:307 c:\xampp\htdocs\index.php:316
+#: c:\xampp\htdocs\annonce.php:326 c:\xampp\htdocs\index.php:315
+#: c:\xampp\htdocs\annonce.php:603 c:\xampp\htdocs\index.php:375
+#: c:\xampp\htdocs\index.php:377
+msgid "Les dernières"
+msgstr "Last"
+
+#: c:\xampp\htdocs\annonce.php:307 c:\xampp\htdocs\index.php:317
+#: c:\xampp\htdocs\annonce.php:326 c:\xampp\htdocs\index.php:316
+#: c:\xampp\htdocs\annonce.php:603 c:\xampp\htdocs\index.php:376
+#: c:\xampp\htdocs\index.php:378
+msgid "annonces"
+msgstr "notices"
+
+#: c:\xampp\htdocs\annonce.php:362 c:\xampp\htdocs\annonces.php:159
+#: c:\xampp\htdocs\index.php:319 c:\xampp\htdocs\annonce.php:381
+#: c:\xampp\htdocs\annonces.php:170 c:\xampp\htdocs\index.php:318
+#: c:\xampp\htdocs\annonce.php:658 c:\xampp\htdocs\annonces.php:308
+#: c:\xampp\htdocs\index.php:378 c:\xampp\htdocs\index.php:380
+msgid "Toutes les annonces"
+msgstr "All notices"
+
+#: c:\xampp\htdocs\annonce.php:373 c:\xampp\htdocs\annonce.php:388
+#: c:\xampp\htdocs\article.php:329 c:\xampp\htdocs\profil.php:629
+#: c:\xampp\htdocs\profil.php:640 c:\xampp\htdocs\annonce.php:392
+#: c:\xampp\htdocs\annonce.php:407 c:\xampp\htdocs\article.php:353
+#: c:\xampp\htdocs\profil.php:635 c:\xampp\htdocs\profil.php:646
+#: c:\xampp\htdocs\annonce.php:668 c:\xampp\htdocs\annonce.php:682
+#: c:\xampp\htdocs\article.php:827 c:\xampp\htdocs\profil.php:723
+#: c:\xampp\htdocs\profil.php:734
+msgid "Oui"
+msgstr "Yes"
+
+#: c:\xampp\htdocs\annonce.php:377 c:\xampp\htdocs\annonce.php:392
+#: c:\xampp\htdocs\article.php:333 c:\xampp\htdocs\profil.php:630
+#: c:\xampp\htdocs\profil.php:644 c:\xampp\htdocs\annonce.php:396
+#: c:\xampp\htdocs\annonce.php:411 c:\xampp\htdocs\article.php:357
+#: c:\xampp\htdocs\profil.php:636 c:\xampp\htdocs\profil.php:650
+#: c:\xampp\htdocs\annonce.php:672 c:\xampp\htdocs\annonce.php:686
+#: c:\xampp\htdocs\article.php:831 c:\xampp\htdocs\profil.php:724
+#: c:\xampp\htdocs\profil.php:738
+msgid "Non"
+msgstr "No"
+
+#: c:\xampp\htdocs\annonces.php:118 c:\xampp\htdocs\article.php:127
+#: c:\xampp\htdocs\articles.php:133 c:\xampp\htdocs\connexion.php:68
+#: c:\xampp\htdocs\index.php:175 c:\xampp\htdocs\inscription.php:107
+#: c:\xampp\htdocs\mentions-legales.php:78
+#: c:\xampp\htdocs\poster-annonce.php:237
+#: c:\xampp\htdocs\poster-article.php:259 c:\xampp\htdocs\profil.php:301
+#: c:\xampp\htdocs\annonce.php:143 c:\xampp\htdocs\article.php:128
+#: c:\xampp\htdocs\connexion.php:89 c:\xampp\htdocs\inscription.php:116
+#: c:\xampp\htdocs\mentions-legales.php:90
+#: c:\xampp\htdocs\politique-de-confidentialite.php:78
+#: c:\xampp\htdocs\poster-article.php:273 c:\xampp\htdocs\profil.php:303
+#: c:\xampp\htdocs\annonce.php:274 c:\xampp\htdocs\annonces.php:248
+#: c:\xampp\htdocs\article.php:321 c:\xampp\htdocs\articles.php:272
+#: c:\xampp\htdocs\connexion.php:121 c:\xampp\htdocs\index.php:221
+#: c:\xampp\htdocs\inscription.php:161 c:\xampp\htdocs\mentions-legales.php:134
+#: c:\xampp\htdocs\messagerie.php:228
+#: c:\xampp\htdocs\politique-de-confidentialite.php:132
+#: c:\xampp\htdocs\poster-annonce.php:294
+#: c:\xampp\htdocs\poster-article.php:315 c:\xampp\htdocs\profil.php:372
+#: c:\xampp\htdocs\qui-sommes-nous.php:148 c:\xampp\htdocs\recherche.php:365
+msgid "Rechercher"
+msgstr "Search"
+
+#: c:\xampp\htdocs\annonces.php:131 c:\xampp\htdocs\article.php:136
+#: c:\xampp\htdocs\articles.php:142 c:\xampp\htdocs\index.php:91
+#: c:\xampp\htdocs\mentions-legales.php:87 c:\xampp\htdocs\profil.php:313
+#: c:\xampp\htdocs\article.php:137 c:\xampp\htdocs\mentions-legales.php:99
+#: c:\xampp\htdocs\politique-de-confidentialite.php:87
+#: c:\xampp\htdocs\profil.php:315 c:\xampp\htdocs\annonce.php:286
+#: c:\xampp\htdocs\annonces.php:264 c:\xampp\htdocs\article.php:333
+#: c:\xampp\htdocs\articles.php:284 c:\xampp\htdocs\index.php:137
+#: c:\xampp\htdocs\mentions-legales.php:146 c:\xampp\htdocs\messagerie.php:240
+#: c:\xampp\htdocs\politique-de-confidentialite.php:144
+#: c:\xampp\htdocs\poster-annonce.php:306 c:\xampp\htdocs\profil.php:387
+#: c:\xampp\htdocs\qui-sommes-nous.php:160 c:\xampp\htdocs\recherche.php:323
+msgid "Poster un article"
+msgstr "Post a news "
+
+#: c:\xampp\htdocs\annonces.php:234 c:\xampp\htdocs\articles.php:243
+#: c:\xampp\htdocs\annonces.php:245 c:\xampp\htdocs\articles.php:254
+#: c:\xampp\htdocs\annonces.php:318 c:\xampp\htdocs\articles.php:335
+msgid "Tout afficher"
+msgstr "Show all"
+
+#: c:\xampp\htdocs\article.php:198 c:\xampp\htdocs\article.php:325
+#: c:\xampp\htdocs\article.php:210 c:\xampp\htdocs\article.php:349
+#: c:\xampp\htdocs\article.php:433 c:\xampp\htdocs\article.php:823
+msgid "Supprimer l'article"
+msgstr "Delete news"
+
+#: c:\xampp\htdocs\article.php:233
+msgid "Fichiers ou liens externes"
+msgstr "External files or links"
+
+#: c:\xampp\htdocs\article.php:282 c:\xampp\htdocs\index.php:256
+#: c:\xampp\htdocs\article.php:306 c:\xampp\htdocs\article.php:780
+#: c:\xampp\htdocs\index.php:316 c:\xampp\htdocs\index.php:318
+msgid "À la une cette"
+msgstr "Headlines this"
+
+#: c:\xampp\htdocs\article.php:282 c:\xampp\htdocs\index.php:257
+#: c:\xampp\htdocs\article.php:306 c:\xampp\htdocs\index.php:256
+#: c:\xampp\htdocs\article.php:780 c:\xampp\htdocs\index.php:316
+#: c:\xampp\htdocs\index.php:318
+msgid "semaine"
+msgstr "week"
+
+#: c:\xampp\htdocs\article.php:318 c:\xampp\htdocs\articles.php:167
+#: c:\xampp\htdocs\index.php:259 c:\xampp\htdocs\article.php:342
+#: c:\xampp\htdocs\articles.php:178 c:\xampp\htdocs\index.php:258
+#: c:\xampp\htdocs\article.php:816 c:\xampp\htdocs\articles.php:325
+#: c:\xampp\htdocs\index.php:318 c:\xampp\htdocs\index.php:320
+msgid "Tous les articles"
+msgstr "All news"
+
+#: c:\xampp\htdocs\articles.php:272
+msgid ""
+"est une plateforme d’aide aux réfugiés pour l’intégration dans la société "
+"française."
+msgstr "is a platform to help refugees integrate into French society."
+
+#: c:\xampp\htdocs\articles.php:274
+msgid "Explorer le site"
+msgstr "Explore the site"
+
+#: c:\xampp\htdocs\articles.php:280
+msgid "Nous suivre"
+msgstr "Follow us"
+
+#: c:\xampp\htdocs\articles.php:286 c:\xampp\htdocs\mentions-legales.php:113
+#: c:\xampp\htdocs\annonce.php:421 c:\xampp\htdocs\annonces.php:270
+#: c:\xampp\htdocs\articles.php:281 c:\xampp\htdocs\mentions-legales.php:125
+#: c:\xampp\htdocs\politique-de-confidentialite.php:114
+#: c:\xampp\htdocs\annonce.php:693 c:\xampp\htdocs\annonces.php:343
+#: c:\xampp\htdocs\article.php:839 c:\xampp\htdocs\articles.php:363
+#: c:\xampp\htdocs\connexion.php:203 c:\xampp\htdocs\index.php:444
+#: c:\xampp\htdocs\inscription.php:270 c:\xampp\htdocs\mentions-legales.php:188
+#: c:\xampp\htdocs\mentions-legales.php:207 c:\xampp\htdocs\messagerie.php:373
+#: c:\xampp\htdocs\politique-de-confidentialite.php:202
+#: c:\xampp\htdocs\poster-annonce.php:435
+#: c:\xampp\htdocs\poster-article.php:500 c:\xampp\htdocs\profil.php:711
+#: c:\xampp\htdocs\qui-sommes-nous.php:218 c:\xampp\htdocs\recherche.php:381
+#: c:\xampp\htdocs\index.php:446 c:\xampp\htdocs\qui-sommes-nous.php:213
+#: c:\xampp\htdocs\qui-sommes-nous.php:219
+msgid "Mentions légales"
+msgstr "Legal Notice"
+
+#: c:\xampp\htdocs\articles.php:287 c:\xampp\htdocs\mentions-legales.php:120
+#: c:\xampp\htdocs\annonce.php:423 c:\xampp\htdocs\annonces.php:272
+#: c:\xampp\htdocs\articles.php:283 c:\xampp\htdocs\mentions-legales.php:132
+#: c:\xampp\htdocs\politique-de-confidentialite.php:121
+#: c:\xampp\htdocs\annonce.php:695 c:\xampp\htdocs\annonces.php:345
+#: c:\xampp\htdocs\article.php:841 c:\xampp\htdocs\articles.php:365
+#: c:\xampp\htdocs\connexion.php:205 c:\xampp\htdocs\index.php:446
+#: c:\xampp\htdocs\inscription.php:272 c:\xampp\htdocs\mentions-legales.php:195
+#: c:\xampp\htdocs\mentions-legales.php:209 c:\xampp\htdocs\messagerie.php:375
+#: c:\xampp\htdocs\politique-de-confidentialite.php:186
+#: c:\xampp\htdocs\politique-de-confidentialite.php:204
+#: c:\xampp\htdocs\poster-annonce.php:437
+#: c:\xampp\htdocs\poster-article.php:502 c:\xampp\htdocs\profil.php:713
+#: c:\xampp\htdocs\qui-sommes-nous.php:220 c:\xampp\htdocs\recherche.php:383
+#: c:\xampp\htdocs\index.php:448 c:\xampp\htdocs\qui-sommes-nous.php:215
+#: c:\xampp\htdocs\qui-sommes-nous.php:221
+msgid "Politique de confidentialité"
+msgstr "Privacy Policy"
+
+#: c:\xampp\htdocs\articles.php:288 c:\xampp\htdocs\annonce.php:425
+#: c:\xampp\htdocs\annonces.php:274 c:\xampp\htdocs\articles.php:285
+msgid "Politique d'utilisation des cookies"
+msgstr "Cookie Usage Policy"
+
+#: c:\xampp\htdocs\articles.php:289
+msgid "Nous contacter"
+msgstr "Contact us"
+
+#: c:\xampp\htdocs\articles.php:290 c:\xampp\htdocs\annonce.php:697
+#: c:\xampp\htdocs\annonces.php:347 c:\xampp\htdocs\article.php:843
+#: c:\xampp\htdocs\articles.php:367 c:\xampp\htdocs\connexion.php:207
+#: c:\xampp\htdocs\index.php:448 c:\xampp\htdocs\inscription.php:274
+#: c:\xampp\htdocs\mentions-legales.php:211 c:\xampp\htdocs\messagerie.php:377
+#: c:\xampp\htdocs\politique-de-confidentialite.php:206
+#: c:\xampp\htdocs\poster-annonce.php:439
+#: c:\xampp\htdocs\poster-article.php:504 c:\xampp\htdocs\profil.php:715
+#: c:\xampp\htdocs\qui-sommes-nous.php:202
+#: c:\xampp\htdocs\qui-sommes-nous.php:222 c:\xampp\htdocs\recherche.php:385
+#: c:\xampp\htdocs\index.php:450 c:\xampp\htdocs\qui-sommes-nous.php:201
+#: c:\xampp\htdocs\qui-sommes-nous.php:217
+#: c:\xampp\htdocs\qui-sommes-nous.php:223
+msgid "Qui sommes-nous ?"
+msgstr "Who are we?"
+
+#: c:\xampp\htdocs\connexion.php:31 c:\xampp\htdocs\connexion.php:46
+#: c:\xampp\htdocs\connexion.php:65
+msgid "Mauvais mail ou mot de passe !"
+msgstr "Wrong mail or password!"
+
+#: c:\xampp\htdocs\connexion.php:35 c:\xampp\htdocs\inscription.php:69
+#: c:\xampp\htdocs\poster-annonce.php:158
+#: c:\xampp\htdocs\poster-article.php:181 c:\xampp\htdocs\connexion.php:50
+#: c:\xampp\htdocs\inscription.php:78 c:\xampp\htdocs\poster-article.php:195
+#: c:\xampp\htdocs\connexion.php:69 c:\xampp\htdocs\inscription.php:105
+#: c:\xampp\htdocs\poster-annonce.php:198
+#: c:\xampp\htdocs\poster-article.php:235
+msgid "Tous les champs doivent être complétés !"
+msgstr "All fields must be completed !"
+
+#: c:\xampp\htdocs\connexion.php:88 c:\xampp\htdocs\connexion.php:120
+#: c:\xampp\htdocs\connexion.php:155
+msgid "Compte créé avec succès !"
+msgstr "All fields must be completed!"
+
+#: c:\xampp\htdocs\connexion.php:92 c:\xampp\htdocs\connexion.php:124
+#: c:\xampp\htdocs\connexion.php:159
+msgid "Connectez-vous"
+msgstr "Log on"
+
+#: c:\xampp\htdocs\connexion.php:93 c:\xampp\htdocs\inscription.php:125
+#: c:\xampp\htdocs\connexion.php:125 c:\xampp\htdocs\inscription.php:145
+#: c:\xampp\htdocs\connexion.php:160 c:\xampp\htdocs\inscription.php:193
+msgid "Pour rejoindre la communauté"
+msgstr "To join the community"
+
+#: c:\xampp\htdocs\connexion.php:100 c:\xampp\htdocs\connexion.php:132
+#: c:\xampp\htdocs\connexion.php:167
+msgid "Adresse e-mail ou Pseudo"
+msgstr "E-mail address or Username"
+
+#: c:\xampp\htdocs\connexion.php:111 c:\xampp\htdocs\connexion.php:143
+#: c:\xampp\htdocs\inscription.php:188 c:\xampp\htdocs\connexion.php:178
+#: c:\xampp\htdocs\inscription.php:236
+msgid "Mot de passe"
+msgstr "Password"
+
+#: c:\xampp\htdocs\connexion.php:120 c:\xampp\htdocs\index.php:140
+#: c:\xampp\htdocs\inscription.php:188 c:\xampp\htdocs\connexion.php:152
+#: c:\xampp\htdocs\inscription.php:208 c:\xampp\htdocs\connexion.php:187
+#: c:\xampp\htdocs\index.php:186 c:\xampp\htdocs\inscription.php:256
+msgid "ou"
+msgstr "or"
+
+#: c:\xampp\htdocs\connexion.php:120 c:\xampp\htdocs\index.php:140
+#: c:\xampp\htdocs\connexion.php:152 c:\xampp\htdocs\connexion.php:187
+#: c:\xampp\htdocs\index.php:186
+msgid "créer un compte"
+msgstr "create an account"
+
+#: c:\xampp\htdocs\index.php:165 c:\xampp\htdocs\profil.php:554
+#: c:\xampp\htdocs\profil.php:559 c:\xampp\htdocs\annonce.php:301
+#: c:\xampp\htdocs\annonces.php:278 c:\xampp\htdocs\article.php:347
+#: c:\xampp\htdocs\articles.php:296 c:\xampp\htdocs\index.php:211
+#: c:\xampp\htdocs\index.php:240 c:\xampp\htdocs\mentions-legales.php:158
+#: c:\xampp\htdocs\messagerie.php:252
+#: c:\xampp\htdocs\politique-de-confidentialite.php:156
+#: c:\xampp\htdocs\poster-annonce.php:313
+#: c:\xampp\htdocs\poster-article.php:334 c:\xampp\htdocs\profil.php:400
+#: c:\xampp\htdocs\profil.php:639 c:\xampp\htdocs\qui-sommes-nous.php:172
+#: c:\xampp\htdocs\recherche.php:335
+msgid "Déconnexion"
+msgstr "Logout"
+
+#: c:\xampp\htdocs\index.php:206 c:\xampp\htdocs\index.php:269
+msgid "Bonjour"
+msgstr "Hello"
+
+#: c:\xampp\htdocs\index.php:212 c:\xampp\htdocs\index.php:275
+msgid "Bienvenue sur"
+msgstr "Welcome on"
+
+#: c:\xampp\htdocs\index.php:214 c:\xampp\htdocs\index.php:277
+msgid "La plateforme d'aide aux réfugiés dans l'ouest"
+msgstr "Refugee aid platform in the West"
+
+#: c:\xampp\htdocs\index.php:226 c:\xampp\htdocs\index.php:289
+msgid "Sur"
+msgstr "On"
+
+#: c:\xampp\htdocs\index.php:227 c:\xampp\htdocs\index.php:290
+msgid "vous pouvez trouver de l'aide grâce à notre communauté grandissante."
+msgstr "you can find help through our growing community."
+
+#: c:\xampp\htdocs\index.php:237
+msgid ""
+"\"N'importe qui peut aider à son echelle. N'importe qui peut se faire aider"
+"\". Voilà ce qui nous caractérise."
+msgstr ""
+"\"Anyone can help on his ladder. Anyone can get help\". This is what "
+"characterizes us."
+
+#: c:\xampp\htdocs\index.php:248 c:\xampp\htdocs\index.php:308
+#: c:\xampp\htdocs\index.php:310
+msgid ""
+"Inscrivez vous dès maintenant pour poster une annonce et découvrir la "
+"communauté."
+msgstr "Register now to post an ad and discover the community."
+
+#: c:\xampp\htdocs\inscription.php:46 c:\xampp\htdocs\inscription.php:55
+#: c:\xampp\htdocs\inscription.php:82
+msgid "Vos mots de passe ne correspondent pas !"
+msgstr "Your passwords don't match!"
+
+#: c:\xampp\htdocs\inscription.php:49 c:\xampp\htdocs\profil.php:115
+#: c:\xampp\htdocs\inscription.php:58 c:\xampp\htdocs\profil.php:118
+#: c:\xampp\htdocs\inscription.php:85 c:\xampp\htdocs\profil.php:156
+msgid "Mot de passe trop court ! (8 caractères minimum)"
+msgstr "Password too short! (8 characters minimum)"
+
+#: c:\xampp\htdocs\inscription.php:52 c:\xampp\htdocs\inscription.php:61
+#: c:\xampp\htdocs\inscription.php:88
+msgid "Pseudo déjà utilisé !"
+msgstr "Username already used!"
+
+#: c:\xampp\htdocs\inscription.php:55 c:\xampp\htdocs\inscription.php:64
+#: c:\xampp\htdocs\inscription.php:91
+msgid "Adresse mail déjà utilisée !"
+msgstr "Email address already used!"
+
+#: c:\xampp\htdocs\inscription.php:60 c:\xampp\htdocs\inscription.php:69
+#: c:\xampp\htdocs\inscription.php:96
+msgid "Votre adresse mail n'est pas valide !"
+msgstr "Your email address is not valid!"
+
+#: c:\xampp\htdocs\inscription.php:63 c:\xampp\htdocs\profil.php:52
+#: c:\xampp\htdocs\inscription.php:72 c:\xampp\htdocs\profil.php:51
+#: c:\xampp\htdocs\inscription.php:99 c:\xampp\htdocs\profil.php:89
+msgid "Votre nom ne peut pas dépasser 255 caractères !"
+msgstr "Your name cannot exceed 255 characters!"
+
+#: c:\xampp\htdocs\inscription.php:66 c:\xampp\htdocs\inscription.php:75
+#: c:\xampp\htdocs\inscription.php:102
+msgid "Votre pseudo ne doit pas dépasser 255 caractères !"
+msgstr "Your nickname must not exceed 255 characters!"
+
+#: c:\xampp\htdocs\inscription.php:124 c:\xampp\htdocs\inscription.php:144
+#: c:\xampp\htdocs\inscription.php:192
+msgid "Inscrivez-vous"
+msgstr "Sign up"
+
+#: c:\xampp\htdocs\inscription.php:131 c:\xampp\htdocs\inscription.php:151
+#: c:\xampp\htdocs\inscription.php:199
+msgid "Au nom d'une association"
+msgstr "On behalf of an association"
+
+#: c:\xampp\htdocs\inscription.php:135 c:\xampp\htdocs\inscription.php:211
+#: c:\xampp\htdocs\inscription.php:155 c:\xampp\htdocs\inscription.php:156
+#: c:\xampp\htdocs\inscription.php:231 c:\xampp\htdocs\inscription.php:203
+#: c:\xampp\htdocs\inscription.php:204 c:\xampp\htdocs\inscription.php:288
+msgid "Nom et prénom"
+msgstr "Name and surname"
+
+#: c:\xampp\htdocs\inscription.php:145 c:\xampp\htdocs\inscription.php:165
+#: c:\xampp\htdocs\inscription.php:166 c:\xampp\htdocs\inscription.php:213
+#: c:\xampp\htdocs\inscription.php:214
+msgid "Pseudo"
+msgstr "Username"
+
+#: c:\xampp\htdocs\inscription.php:156 c:\xampp\htdocs\inscription.php:176
+#: c:\xampp\htdocs\inscription.php:177 c:\xampp\htdocs\inscription.php:224
+#: c:\xampp\htdocs\inscription.php:225
+msgid "Adresse e-mail"
+msgstr "E-mail address"
+
+#: c:\xampp\htdocs\inscription.php:178 c:\xampp\htdocs\inscription.php:198
+#: c:\xampp\htdocs\inscription.php:246
+msgid "Confirmation du mot de passe"
+msgstr "Password Confirmation"
+
+#: c:\xampp\htdocs\inscription.php:188 c:\xampp\htdocs\inscription.php:208
+#: c:\xampp\htdocs\inscription.php:256
+msgid "connectez-vous"
+msgstr "log in"
+
+#: c:\xampp\htdocs\inscription.php:209 c:\xampp\htdocs\inscription.php:229
+#: c:\xampp\htdocs\inscription.php:286
+msgid "Nom de votre association"
+msgstr "Name of your association"
+
+#: c:\xampp\htdocs\poster-annonce.php:112
+#: c:\xampp\htdocs\poster-article.php:136
+#: c:\xampp\htdocs\poster-article.php:142
+#: c:\xampp\htdocs\poster-annonce.php:152
+#: c:\xampp\htdocs\poster-article.php:182
+msgid "Erreur durant l'importation de votre fichier"
+msgstr "Error while importing your file"
+
+#: c:\xampp\htdocs\poster-annonce.php:115
+#: c:\xampp\htdocs\poster-article.php:139
+#: c:\xampp\htdocs\poster-article.php:145
+#: c:\xampp\htdocs\poster-annonce.php:155
+#: c:\xampp\htdocs\poster-article.php:185
+msgid ""
+"Votre fichier doit être au format 'jpg', 'jpeg', 'gif', 'png', 'pdf', 'doc', "
+"'odt' ou 'docx'"
+msgstr ""
+"Your file must be in 'jpg', 'jpeg', 'gif', 'png', 'pdf', 'doc', 'odt' or "
+"'docx' format."
+
+#: c:\xampp\htdocs\poster-annonce.php:118
+#: c:\xampp\htdocs\poster-article.php:142
+#: c:\xampp\htdocs\poster-article.php:148
+#: c:\xampp\htdocs\poster-annonce.php:158
+#: c:\xampp\htdocs\poster-article.php:188
+msgid "Votre fichier ne doit pas dépasser 2Mo"
+msgstr "Your file must not exceed 2Mo"
+
+#: c:\xampp\htdocs\poster-annonce.php:142
+#: c:\xampp\htdocs\poster-annonce.php:182
+msgid "Le nom de la ville ne peut pas dépasser 64 caractères"
+msgstr "The name of the city may not exceed 64 characters."
+
+#: c:\xampp\htdocs\poster-annonce.php:145
+#: c:\xampp\htdocs\poster-article.php:170
+#: c:\xampp\htdocs\poster-annonce.php:185
+#: c:\xampp\htdocs\poster-article.php:210
+msgid "La description de la section ne doit pas dépasser 128 caractères"
+msgstr "The section description must not exceed 128 characters."
+
+#: c:\xampp\htdocs\poster-annonce.php:149
+#: c:\xampp\htdocs\poster-article.php:173
+#: c:\xampp\htdocs\poster-annonce.php:189
+#: c:\xampp\htdocs\poster-article.php:213
+msgid "Le titre de la section ne doit pas dépasser 64 caractères"
+msgstr "The title of the section must not exceed 64 characters."
+
+#: c:\xampp\htdocs\poster-annonce.php:152
+#: c:\xampp\htdocs\poster-annonce.php:192
+msgid "Le sous-titre ne doit pas dépasser 128 caractères"
+msgstr "The subtitle must not exceed 128 characters."
+
+#: c:\xampp\htdocs\poster-annonce.php:155
+#: c:\xampp\htdocs\poster-article.php:178
+#: c:\xampp\htdocs\poster-article.php:192
+#: c:\xampp\htdocs\poster-annonce.php:195
+#: c:\xampp\htdocs\poster-article.php:232
+msgid "Le titre ne doit pas dépasser 64 caractères"
+msgstr "The title must not exceed 64 characters"
+
+#: c:\xampp\htdocs\poster-annonce.php:256
+#: c:\xampp\htdocs\poster-annonce.php:267
+#: c:\xampp\htdocs\poster-annonce.php:336
+msgid "Poster une nouvelle annonce"
+msgstr "Post a new notice"
+
+#: c:\xampp\htdocs\poster-annonce.php:261
+#: c:\xampp\htdocs\poster-annonce.php:272
+#: c:\xampp\htdocs\poster-annonce.php:341
+msgid "Saisissez un titre pour votre annonce"
+msgstr "Enter a title for your notice"
+
+#: c:\xampp\htdocs\poster-annonce.php:264
+#: c:\xampp\htdocs\poster-annonce.php:275
+#: c:\xampp\htdocs\poster-annonce.php:344
+msgid "Saisissez un sous-titre"
+msgstr "Enter a subtitle"
+
+#: c:\xampp\htdocs\poster-annonce.php:267
+#: c:\xampp\htdocs\poster-annonce.php:278
+#: c:\xampp\htdocs\poster-annonce.php:347
+msgid "Écrivez ici le texte de votre annonce"
+msgstr "Write here the text of your notice"
+
+#: c:\xampp\htdocs\poster-annonce.php:274
+#: c:\xampp\htdocs\poster-annonce.php:285
+#: c:\xampp\htdocs\poster-annonce.php:354
+#: c:\xampp\htdocs\poster-article.php:397
+msgid "Catégories"
+msgstr "Categories"
+
+#: c:\xampp\htdocs\poster-annonce.php:298
+#: c:\xampp\htdocs\poster-annonce.php:309
+#: c:\xampp\htdocs\poster-annonce.php:378
+msgid "Localisation"
+msgstr "Location"
+
+#: c:\xampp\htdocs\poster-annonce.php:299
+#: c:\xampp\htdocs\poster-annonce.php:310
+#: c:\xampp\htdocs\poster-annonce.php:379
+msgid "Ajouter un lieu à votre annonce"
+msgstr "Add a place to your notice"
+
+#: c:\xampp\htdocs\poster-annonce.php:301
+#: c:\xampp\htdocs\poster-annonce.php:312
+#: c:\xampp\htdocs\poster-annonce.php:381
+msgid "Ajouter une ville"
+msgstr "Add a city"
+
+#: c:\xampp\htdocs\poster-annonce.php:307
+#: c:\xampp\htdocs\poster-article.php:367 c:\xampp\htdocs\annonce.php:267
+#: c:\xampp\htdocs\article.php:249 c:\xampp\htdocs\poster-annonce.php:318
+#: c:\xampp\htdocs\poster-article.php:392 c:\xampp\htdocs\annonce.php:498
+#: c:\xampp\htdocs\article.php:700 c:\xampp\htdocs\poster-annonce.php:387
+#: c:\xampp\htdocs\poster-article.php:449
+msgid "Liens ou fichiers externes"
+msgstr "External links or files"
+
+#: c:\xampp\htdocs\poster-annonce.php:310
+#: c:\xampp\htdocs\poster-annonce.php:321
+#: c:\xampp\htdocs\poster-annonce.php:390
+#: c:\xampp\htdocs\poster-article.php:452
+msgid "Titre de la section"
+msgstr "Section Title"
+
+#: c:\xampp\htdocs\poster-annonce.php:312
+#: c:\xampp\htdocs\poster-annonce.php:323
+#: c:\xampp\htdocs\poster-annonce.php:392
+#: c:\xampp\htdocs\poster-article.php:454
+msgid "Description de la section"
+msgstr "Description of the section"
+
+#: c:\xampp\htdocs\poster-annonce.php:327
+#: c:\xampp\htdocs\poster-article.php:354
+#: c:\xampp\htdocs\poster-article.php:387
+#: c:\xampp\htdocs\poster-annonce.php:338
+#: c:\xampp\htdocs\poster-article.php:379
+#: c:\xampp\htdocs\poster-article.php:412
+#: c:\xampp\htdocs\poster-annonce.php:407
+#: c:\xampp\htdocs\poster-article.php:436
+#: c:\xampp\htdocs\poster-article.php:469
+msgid "Ajouter des fichiers"
+msgstr "Add files"
+
+#: c:\xampp\htdocs\poster-annonce.php:329
+#: c:\xampp\htdocs\poster-article.php:356
+#: c:\xampp\htdocs\poster-article.php:389
+#: c:\xampp\htdocs\poster-annonce.php:340
+#: c:\xampp\htdocs\poster-article.php:381
+#: c:\xampp\htdocs\poster-article.php:414
+#: c:\xampp\htdocs\poster-annonce.php:409
+#: c:\xampp\htdocs\poster-article.php:438
+#: c:\xampp\htdocs\poster-article.php:471
+msgid "Fichiers sélectionnés"
+msgstr "Selected files"
+
+#: c:\xampp\htdocs\poster-annonce.php:329
+#: c:\xampp\htdocs\poster-article.php:356
+#: c:\xampp\htdocs\poster-article.php:389
+#: c:\xampp\htdocs\poster-annonce.php:340
+#: c:\xampp\htdocs\poster-article.php:381
+#: c:\xampp\htdocs\poster-article.php:414
+#: c:\xampp\htdocs\poster-annonce.php:409
+#: c:\xampp\htdocs\poster-article.php:438
+#: c:\xampp\htdocs\poster-article.php:471
+msgid "Taille totale"
+msgstr "Total size"
+
+#: c:\xampp\htdocs\poster-annonce.php:335
+#: c:\xampp\htdocs\poster-article.php:395
+#: c:\xampp\htdocs\poster-annonce.php:346
+#: c:\xampp\htdocs\poster-article.php:420
+#: c:\xampp\htdocs\poster-annonce.php:415
+#: c:\xampp\htdocs\poster-article.php:477
+msgid "Lien externe n°1"
+msgstr "External link no. 1"
+
+#: c:\xampp\htdocs\poster-annonce.php:338
+#: c:\xampp\htdocs\poster-article.php:398
+#: c:\xampp\htdocs\poster-annonce.php:349
+#: c:\xampp\htdocs\poster-article.php:423
+#: c:\xampp\htdocs\poster-annonce.php:418
+#: c:\xampp\htdocs\poster-article.php:480
+msgid "Lien externe n°2"
+msgstr "External link no. 2"
+
+#: c:\xampp\htdocs\poster-annonce.php:341
+#: c:\xampp\htdocs\poster-article.php:401
+#: c:\xampp\htdocs\poster-annonce.php:352
+#: c:\xampp\htdocs\poster-article.php:426
+#: c:\xampp\htdocs\poster-annonce.php:421
+#: c:\xampp\htdocs\poster-article.php:483
+msgid "Lien externe n°3"
+msgstr "External link no. 3"
+
+#: c:\xampp\htdocs\poster-annonce.php:347
+#: c:\xampp\htdocs\poster-article.php:407
+#: c:\xampp\htdocs\poster-annonce.php:358
+#: c:\xampp\htdocs\poster-article.php:432
+#: c:\xampp\htdocs\poster-annonce.php:352
+#: c:\xampp\htdocs\poster-annonce.php:427
+#: c:\xampp\htdocs\poster-article.php:395
+#: c:\xampp\htdocs\poster-article.php:489
+msgid "Publier"
+msgstr "Publish"
+
+#: c:\xampp\htdocs\poster-article.php:92 c:\xampp\htdocs\profil.php:142
+#: c:\xampp\htdocs\poster-article.php:98 c:\xampp\htdocs\profil.php:145
+#: c:\xampp\htdocs\profil.php:183
+msgid "Erreur durant l'importation de votre photo de profil"
+msgstr "Error while importing your profile picture"
+
+#: c:\xampp\htdocs\poster-article.php:95 c:\xampp\htdocs\poster-article.php:101
+#: c:\xampp\htdocs\article.php:209 c:\xampp\htdocs\poster-article.php:111
+msgid "Votre image doit être au format svg"
+msgstr "Your image must be in svg format"
+
+#: c:\xampp\htdocs\poster-article.php:98 c:\xampp\htdocs\poster-article.php:104
+#: c:\xampp\htdocs\article.php:212 c:\xampp\htdocs\poster-article.php:114
+msgid "Votre image ne doit pas dépasser 2Mo"
+msgstr "Your image must not exceed 2Mo"
+
+#: c:\xampp\htdocs\poster-article.php:165
+#: c:\xampp\htdocs\poster-article.php:179
+#: c:\xampp\htdocs\poster-article.php:219
+msgid "Le sous-titre 4 ne doit pas dépasser 128 caractères"
+msgstr "Subtitle 4 shall not exceed 128 characters."
+
+#: c:\xampp\htdocs\poster-article.php:168
+#: c:\xampp\htdocs\poster-article.php:182
+#: c:\xampp\htdocs\poster-article.php:222
+msgid "Le sous-titre 3 ne doit pas dépasser 128 caractères"
+msgstr "Subtitle 3 shall not exceed 128 characters."
+
+#: c:\xampp\htdocs\poster-article.php:172
+#: c:\xampp\htdocs\poster-article.php:186
+#: c:\xampp\htdocs\poster-article.php:226
+msgid "Le sous-titre 2 ne doit pas dépasser 128 caractères"
+msgstr "Subtitle 2 shall not exceed 128 characters."
+
+#: c:\xampp\htdocs\poster-article.php:175
+#: c:\xampp\htdocs\poster-article.php:189
+#: c:\xampp\htdocs\poster-article.php:229
+msgid "Le sous-titre 1 ne doit pas dépasser 128 caractères"
+msgstr "Subtitle 1 shall not exceed 128 characters."
+
+#: c:\xampp\htdocs\poster-article.php:285
+#: c:\xampp\htdocs\poster-article.php:310
+#: c:\xampp\htdocs\poster-article.php:360
+msgid "Poster un nouvel article"
+msgstr "Post a new news"
+
+#: c:\xampp\htdocs\poster-article.php:290
+#: c:\xampp\htdocs\poster-article.php:315
+#: c:\xampp\htdocs\poster-article.php:365
+msgid "Saisissez un titre pour votre article"
+msgstr "Enter a title for your news"
+
+#: c:\xampp\htdocs\poster-article.php:293
+#: c:\xampp\htdocs\poster-article.php:318
+#: c:\xampp\htdocs\poster-article.php:368
+msgid "Saisissez un sous-titre n°1"
+msgstr "Enter a subtitle no. 1"
+
+#: c:\xampp\htdocs\poster-article.php:296
+#: c:\xampp\htdocs\poster-article.php:321
+#: c:\xampp\htdocs\poster-article.php:371
+msgid "Écrivez ici le paragraphe n°1"
+msgstr "Write here the paragraph no. 1"
+
+#: c:\xampp\htdocs\poster-article.php:299
+#: c:\xampp\htdocs\poster-article.php:324
+#: c:\xampp\htdocs\poster-article.php:374
+msgid "Saisissez un sous-titre n°2"
+msgstr "Enter a subtitle no. 2"
+
+#: c:\xampp\htdocs\poster-article.php:302
+#: c:\xampp\htdocs\poster-article.php:327
+#: c:\xampp\htdocs\poster-article.php:377
+msgid "Écrivez ici le paragraphe n°2"
+msgstr "Write here the paragraph no. 2"
+
+#: c:\xampp\htdocs\poster-article.php:305
+#: c:\xampp\htdocs\poster-article.php:330
+#: c:\xampp\htdocs\poster-article.php:380
+msgid "Saisissez un sous-titre n°3"
+msgstr "Enter a subtitle no. 3"
+
+#: c:\xampp\htdocs\poster-article.php:308
+#: c:\xampp\htdocs\poster-article.php:333
+#: c:\xampp\htdocs\poster-article.php:383
+msgid "Écrivez ici le paragraphe n°3"
+msgstr "Write here the paragraph no. 3"
+
+#: c:\xampp\htdocs\poster-article.php:311
+#: c:\xampp\htdocs\poster-article.php:336
+#: c:\xampp\htdocs\poster-article.php:386
+msgid "Saisissez un sous-titre n°4"
+msgstr "Enter a subtitle no. 4"
+
+#: c:\xampp\htdocs\poster-article.php:314
+#: c:\xampp\htdocs\poster-article.php:339
+#: c:\xampp\htdocs\poster-article.php:389
+msgid "Écrivez ici le paragraphe n°4"
+msgstr "Write here the paragraph no. 4"
+
+#: c:\xampp\htdocs\poster-article.php:347
+#: c:\xampp\htdocs\poster-article.php:372
+#: c:\xampp\htdocs\poster-article.php:427
+msgid "Illustration"
+msgstr "Illustration"
+
+#: c:\xampp\htdocs\poster-article.php:348
+#: c:\xampp\htdocs\poster-article.php:373
+#: c:\xampp\htdocs\poster-article.php:428
+msgid "Définir l'image à la une"
+msgstr "Set the image on the front page"
+
+#: c:\xampp\htdocs\profil.php:69 c:\xampp\htdocs\profil.php:107
+msgid "Pseudo déjà utilisé"
+msgstr "Pseudo already used"
+
+#: c:\xampp\htdocs\profil.php:72 c:\xampp\htdocs\profil.php:110
+msgid "Votre pseudo ne peut pas dépasser 255 caractères !"
+msgstr "Your nickname cannot exceed 255 characters!"
+
+#: c:\xampp\htdocs\profil.php:85 c:\xampp\htdocs\profil.php:86
+#: c:\xampp\htdocs\profil.php:124
+msgid "Votre description ne peut pas dépasser 255 caractères !"
+msgstr "Your description cannot exceed 255 characters!"
+
+#: c:\xampp\htdocs\profil.php:100 c:\xampp\htdocs\profil.php:102
+#: c:\xampp\htdocs\profil.php:140
+msgid "Mail déjà utilisé"
+msgstr "Mail already used"
+
+#: c:\xampp\htdocs\profil.php:113 c:\xampp\htdocs\profil.php:116
+#: c:\xampp\htdocs\profil.php:154
+msgid "Mot de passe mit à jour"
+msgstr "Password updated"
+
+#: c:\xampp\htdocs\profil.php:118 c:\xampp\htdocs\profil.php:121
+#: c:\xampp\htdocs\profil.php:159
+msgid "Vos deux mots de passes ne correspondent pas !"
+msgstr "Your two passwords don't match!"
+
+#: c:\xampp\htdocs\profil.php:121 c:\xampp\htdocs\profil.php:124
+#: c:\xampp\htdocs\profil.php:162
+msgid "Champs vides !"
+msgstr "Empty fields!"
+
+#: c:\xampp\htdocs\profil.php:145 c:\xampp\htdocs\profil.php:148
+#: c:\xampp\htdocs\profil.php:186
+msgid "Votre photo de profil doit être au format jpg, jpeg, gif ou png"
+msgstr "Your profile picture must be in jpg, jpeg, gif or png format"
+
+#: c:\xampp\htdocs\profil.php:148 c:\xampp\htdocs\profil.php:151
+#: c:\xampp\htdocs\profil.php:189
+msgid "Votre photo de profil ne doit pas dépasser 2Mo"
+msgstr "Your profile picture must not exceed 2Mo"
+
+#: c:\xampp\htdocs\profil.php:329 c:\xampp\htdocs\profil.php:342
+#: c:\xampp\htdocs\profil.php:433
+msgid "Utilisateur inexistant"
+msgstr "Non-existent user"
+
+#: c:\xampp\htdocs\profil.php:476 c:\xampp\htdocs\profil.php:488
+#: c:\xampp\htdocs\profil.php:572
+msgid "Nouveau mot de passe"
+msgstr "New password"
+
+#: c:\xampp\htdocs\profil.php:478 c:\xampp\htdocs\profil.php:490
+#: c:\xampp\htdocs\profil.php:574
+msgid "Confirmez nouveau mot de passe"
+msgstr "Confirm new password"
+
+#: c:\xampp\htdocs\profil.php:535 c:\xampp\htdocs\annonce.php:324
+#: c:\xampp\htdocs\profil.php:542 c:\xampp\htdocs\annonce.php:599
+#: c:\xampp\htdocs\profil.php:626
+msgid "Contacter"
+msgstr "Contact"
+
+#: c:\xampp\htdocs\profil.php:549 c:\xampp\htdocs\profil.php:636
+#: c:\xampp\htdocs\profil.php:554 c:\xampp\htdocs\profil.php:642
+#: c:\xampp\htdocs\profil.php:634 c:\xampp\htdocs\profil.php:730
+msgid "Signaler l'utilisateur"
+msgstr "Report user"
+
+#: c:\xampp\htdocs\profil.php:550 c:\xampp\htdocs\profil.php:555
+#: c:\xampp\htdocs\profil.php:637
+msgid "Supprimer le compte"
+msgstr "Delete the account"
+
+#: c:\xampp\htdocs\profil.php:566 c:\xampp\htdocs\profil.php:572
+#: c:\xampp\htdocs\profil.php:650
+msgid "Annonces publiées"
+msgstr "Notices published"
+
+#: c:\xampp\htdocs\profil.php:627 c:\xampp\htdocs\profil.php:633
+#: c:\xampp\htdocs\profil.php:721
+msgid "Supprimer le compte ?"
+msgstr "Delete the account?"
+
+#: c:\xampp\htdocs\annonce.php:419 c:\xampp\htdocs\annonces.php:268
+#: c:\xampp\htdocs\articles.php:279 c:\xampp\htdocs\annonce.php:691
+#: c:\xampp\htdocs\annonces.php:341 c:\xampp\htdocs\article.php:837
+#: c:\xampp\htdocs\articles.php:361 c:\xampp\htdocs\connexion.php:201
+#: c:\xampp\htdocs\index.php:442 c:\xampp\htdocs\inscription.php:268
+#: c:\xampp\htdocs\mentions-legales.php:205 c:\xampp\htdocs\messagerie.php:371
+#: c:\xampp\htdocs\politique-de-confidentialite.php:200
+#: c:\xampp\htdocs\poster-annonce.php:433
+#: c:\xampp\htdocs\poster-article.php:498 c:\xampp\htdocs\profil.php:709
+#: c:\xampp\htdocs\qui-sommes-nous.php:216 c:\xampp\htdocs\recherche.php:379
+#: c:\xampp\htdocs\index.php:444 c:\xampp\htdocs\qui-sommes-nous.php:211
+#: c:\xampp\htdocs\qui-sommes-nous.php:217
+msgid "Tous droits réservés."
+msgstr "All rights reserved"
+
+#: c:\xampp\htdocs\inscription.php:41 c:\xampp\htdocs\inscription.php:68
+msgid "Votre compte associatif a bien été créé !"
+msgstr "Your association account has been created !"
+
+#: c:\xampp\htdocs\inscription.php:48 c:\xampp\htdocs\inscription.php:75
+msgid "Votre compte a bien été créé !"
+msgstr "Your account has been created !"
+
+#: c:\xampp\htdocs\inscription.php:206 c:\xampp\htdocs\inscription.php:254
+msgid "Je m'inscris"
+msgstr "I'm signing up"
+
+#: c:\xampp\htdocs\annonce.php:107
+msgid "Le titre de l'annonce ne peut pas dépasser 50 caractères !"
+msgstr "The title of the notice may not exceed 50 characters!"
+
+#: c:\xampp\htdocs\annonce.php:119
+msgid "Le sous-titre 1 de l'annonce ne peut pas dépasser 100 caractères !"
+msgstr "Subtitle 1 of the notice may not exceed 100 characters!"
+
+#: c:\xampp\htdocs\annonce.php:138
+msgid ""
+"Le titre de la section de l'annonce ne peut pas dépasser 50 caractères !"
+msgstr ""
+"Le titre de la section de l'annonce ne peut pas dépasser 50 caractères !"
+
+#: c:\xampp\htdocs\annonce.php:150
+msgid ""
+"La description de la section de l'annonce ne peut pas dépasser 200 "
+"caractères !"
+msgstr ""
+"The description of the section of the notice may not exceed 200 characters!"
+
+#: c:\xampp\htdocs\article.php:87
+msgid "Le titre de l'article ne peut pas dépasser 64 caractères !"
+msgstr "The title of the news may not exceed 64 characters!"
+
+#: c:\xampp\htdocs\article.php:99
+msgid "Le sous-titre 1 de l'article ne peut pas dépasser 100 caractères !"
+msgstr "Subtitle 1 of the news may not exceed 100 characters!"
+
+#: c:\xampp\htdocs\article.php:110
+msgid "Le sous-titre 2 de l'article ne peut pas dépasser 100 caractères !"
+msgstr "Subtitle 2 of the news may not exceed 100 characters!"
+
+#: c:\xampp\htdocs\article.php:121
+msgid "Le sous-titre 3 de l'article ne peut pas dépasser 100 caractères !"
+msgstr "Subtitle 2 of the news may not exceed 100 characters!"
+
+#: c:\xampp\htdocs\article.php:132
+msgid "Le sous-titre 4 de l'article ne peut pas dépasser 100 caractères !"
+msgstr "Subtitle 4 of the news may not exceed 100 characters!"
+
+#: c:\xampp\htdocs\article.php:172
+msgid ""
+"Le titre de la section de l'article ne peut pas dépasser 100 caractères !"
+msgstr "The title of the section of the news may not exceed 100 characters!"
+
+#: c:\xampp\htdocs\article.php:184
+msgid ""
+"La description de la section de l'article ne peut pas dépasser 200 "
+"caractères !"
+msgstr ""
+"The description of the section of the news may not exceed 200 characters!"
+
+#: c:\xampp\htdocs\article.php:206 c:\xampp\htdocs\poster-article.php:108
+msgid "Erreur durant l'importation de votre image"
+msgstr "Error while importing your image"
+
+#: c:\xampp\htdocs\article.php:215 c:\xampp\htdocs\poster-article.php:117
+msgid "Vous devez selectionner une image d'illustration"
+msgstr "You have to select an illustration image"
+
+#: c:\xampp\htdocs\index.php:297
+msgid ""
+"\"Je suis d'où je vais. Nous ne sommes pas définis par le lieu où nous "
+"sommes nés mais par le chemin que nous parcourons\""
+msgstr ""
+"\"I'm where I'm going from. We are defined not by where we were born but by "
+"the path we take...\""
+
+#: c:\xampp\htdocs\messagerie.php:350
+msgid "Saisissez votre message"
+msgstr "Enter your message"
+
+#: c:\xampp\htdocs\messagerie.php:351
+msgid "Envoyer"
+msgstr "Send"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:187
+msgid "Utilisation des données personnelles collectées"
+msgstr "Use of personal data collected"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:188
+msgid "Contribution"
+msgstr "Contribution"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:189
+msgid ""
+"Si vous vous connectez à notre site web pour contribuer au contenu, vos "
+"données de connexion, telle que votre pseudo, votre adresse IP et les "
+"informations de l’agent utilisateur de votre navigateur sont collectés pour "
+"nous aider à la détection des connexions indésirables. Votre mot de passe de "
+"connexion au site est stocké sur nos serveurs sous forme cryptée. Nous n'y "
+"avons pas accès en clair."
+msgstr ""
+"If you log on to our website to contribute content, your login information, "
+"such as your username, IP address and browser user agent information is "
+"collected to help us detect unwanted connections. Your password for logging "
+"on to the site is stored on our servers in encrypted form. We do not have "
+"unencrypted access to it."
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:190
+msgid "Média"
+msgstr "Media"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:191
+msgid ""
+"Si vous êtes un utilisateur ou une utilisatrice enregistré·e et que vous "
+"téléversez des images sur le site web, nous vous conseillons d’éviter de "
+"téléverser des images contenant des données EXIF de coordonnées GPS. Les "
+"visiteurs de votre site web peuvent télécharger et extraire des données de "
+"localisation depuis ces images."
+msgstr ""
+"If you are a registered user and you upload images to the website, we advise "
+"you to avoid uploading images containing EXIF GPS coordinate data. Visitors "
+"to your website can download and extract location data from these images."
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:192
+msgid "Contenu embarqué depuis d’autres sites"
+msgstr "Embedded content from other sites"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:193
+msgid ""
+"Les articles de ce site peuvent inclure des contenus intégrés (par exemple "
+"des vidéos, images, articles…). Le contenu intégré depuis d’autres sites se "
+"comporte de la même manière que si le visiteur se rendait sur cet autre "
+"site. Ces sites web pourraient collecter des données sur vous, utiliser des "
+"cookies, embarquer des outils de suivis tiers, suivre vos interactions avec "
+"ces contenus embarqués si vous disposez d’un compte connecté sur leur site "
+"web."
+msgstr ""
+"Articles on this site may include embedded content (e.g. videos, images, "
+"articles...). Content embedded from other sites behaves in the same way as "
+"if the visitor were visiting this other site. These websites may collect "
+"data about you, use cookies, embed third-party tracking tools, track your "
+"interactions with such embedded content if you have an account logged into "
+"their website."
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:194
+msgid "Durée de stockage de vos données"
+msgstr "How long will your data be stored"
+
+#: c:\xampp\htdocs\politique-de-confidentialite.php:195
+msgid ""
+"Si vous publiez des contenus sur ce site, ces contenus et leurs métadonnées "
+"sont conservés indéfiniment. Pour les utilisateurs et utilisatrices qui "
+"s’enregistrent sur notre site, nous stockons également les données "
+"personnelles indiquées dans leur profil. Tous les utilisateurs et "
+"utilisatrices peuvent voir, modifier ou supprimer leurs informations "
+"personnelles à tout moment (pseudonyme, e-mail, mini-biographie, avatar). "
+"Les gestionnaires du site peuvent aussi voir et modifier ces informations."
+msgstr ""
+"If you publish content on this site, that content and its metadata is "
+"retained indefinitely. For users who register on our site, we also store the "
+"personal data indicated in their profile. All users can view, change or "
+"delete their personal information at any time (nickname, e-mail, mini-"
+"biography, avatar). The site managers can also view and modify this "
+"information."
+
+#: c:\xampp\htdocs\recherche.php:132 c:\xampp\htdocs\recherche.php:206
+#: c:\xampp\htdocs\recherche.php:231
+msgid "Pas de résultats"
+msgstr "No results"
+
+#: c:\xampp\htdocs\recherche.php:210
+msgid "Profils"
+msgstr "Profiles"
+
+#: c:\xampp\htdocs\qui-sommes-nous.php:203
+#: c:\xampp\htdocs\qui-sommes-nous.php:205
+msgid "L'équipe"
+msgstr "The team"
+
+#: c:\xampp\htdocs\qui-sommes-nous.php:204
+#: c:\xampp\htdocs\qui-sommes-nous.php:206
+msgid ""
+"Nous sommes une équipe de 5 étudiants actuellement en première année de DUT "
+"Métiers du Multimédia et de l'Internet : Martin, Titouan, Quentin, Théo et "
+"Killian. Nous avons décidé de créer ce site lors de notre projet tuteuré de "
+"fin d'année."
+msgstr ""
+"We are a team of 5 students currently in the first year of the DUT "
+"Multimedia and Internet Professions: Martin, Titouan, Quentin, Théo and "
+"Killian. We decided to create this site during our tutored project at the "
+"end of the year."
+
+#: c:\xampp\htdocs\qui-sommes-nous.php:207
+#: c:\xampp\htdocs\qui-sommes-nous.php:212
+msgid ""
+"Je suis d'où je vais. Nous ne sommes pas définis par le lieu où nous sommes "
+"nés mais par le chemin que nous parcourons"
+msgstr ""
+"I'm where I'm going. We are not defined by where we are born but by the path "
+"we take"
+
+#: c:\xampp\htdocs\index.php:299
+msgid ""
+"N'importe qui peut aider à son échelle. N'importe qui peut se faire aider. "
+"Voilà ce qui nous caractérise."
+msgstr ""
+"Anyone can help at his level. Anyone can get help. That's what we're all "
+"about."
+
+#: c:\xampp\htdocs\mentions-legales.php:189
+msgid "Site édité par"
+msgstr "Site edited by"
+
+#: c:\xampp\htdocs\mentions-legales.php:191
+msgid "Directeur de la publication"
+msgstr "Director of Publication"
+
+#: c:\xampp\htdocs\mentions-legales.php:193
+msgid "Droit d’accès"
+msgstr "Right of access"
+
+#: c:\xampp\htdocs\mentions-legales.php:194
+msgid ""
+"En application de la loi Informatique et liberté, vous disposez d’un droit "
+"d’accès, de rectification, de modification et de suppression concernant des "
+"données qui vous concernent personnellement. Ce droit peut être exercé par "
+"voie électronique ou par courrier postal, daté et signé, accompagné d'une "
+"copie d’un titre d’identité."
+msgstr ""
+"In application of the French Data Protection Act, you have the right to "
+"access, rectify, modify and delete data concerning you personally. This "
+"right may be exercised by electronic means or by post, dated and signed, "
+"accompanied by a copy of an identity document."
+
+#: c:\xampp\htdocs\mentions-legales.php:196
+msgid ""
+"Les informations personnelles collectées ne sont en aucun cas confiées à des "
+"tiers."
+msgstr ""
+"Under no circumstances is the personal information collected entrusted to "
+"third parties."
+
+#: c:\xampp\htdocs\mentions-legales.php:197
+msgid "Propriété intellectuelle"
+msgstr "Intellectual Property"
+
+#: c:\xampp\htdocs\mentions-legales.php:198
+msgid ""
+"Tout le contenu de notre site, incluant, de façon non limitative, les "
+"graphismes, images, textes, vidéos, animations, sons, logos et icônes, sont "
+"la propriété exclusive de l'éditeur du site, à l’exception des marques, "
+"logos ou contenus appartenant à d’autres organisations."
+msgstr ""
+"All the content of our site, including, but not limited to, graphics, "
+"images, texts, videos, animations, sounds, logos and icons, are the "
+"exclusive property of the site publisher, with the exception of brands, "
+"logos or content belonging to other organisations."
+
+#: c:\xampp\htdocs\mentions-legales.php:199
+msgid "Hébergeur"
+msgstr "Hosting"
+
+#: c:\xampp\htdocs\mentions-legales.php:200
+msgid ""
+"est hébergé par o2switch, 222-224 Boulevard Gustave Flaubert, 63000 Clermont-"
+"Ferrand - Capital de 100000€ - Siret 510 909 80700024"
+msgstr ""
+"is hosted by o2switch, 222-224 Boulevard Gustave Flaubert, 63000 Clermont-"
+"Ferrand - Capital of 100000€ - Siret 510 909 80700024"
+
+#: c:\xampp\htdocs\qui-sommes-nous.php:207
+msgid "Notre mission"
+msgstr "Our Mission Statement"
+
+#: c:\xampp\htdocs\qui-sommes-nous.php:208
+msgid ""
+"La mission de \"Je viens d’ailleurs\" est avant tout de mettre en relation "
+"des réfugiés et demandeurs d’asile avec des personnes pouvant les aider lors "
+"de leur processus d'intégration dans la société française. Je viens "
+"d'ailleurs a aussi pour mission de référencer et rendre visible de "
+"nombreuses initiatives qui manquent parfois de visibilité et ne profitent "
+"pas à tout le monde."
+msgstr ""
+"The mission of \"Je viens d’ailleurs\" is above all to put refugees and asylum "
+"seekers in touch with people who can help them in their integration process "
+"into French society. Je viens d'ailleurs also has the mission of referencing "
+"and making visible many initiatives that sometimes lack visibility and do "
+"not benefit everyone."
